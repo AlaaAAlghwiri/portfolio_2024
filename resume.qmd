@@ -1,0 +1,10 @@
+---
+title: "Professional Resume"
+---
+
+<iframe 
+  width="1300" 
+  height="1000" 
+  src="images/Alaa Alghwiri Resume.pdf">
+</iframe>
+---

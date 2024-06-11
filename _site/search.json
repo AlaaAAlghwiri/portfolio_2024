@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Alaa Alghwiri",
+    "section": "",
+    "text": "Biography\nHighly skilled Data Scientist with a Ph.D. in Industrial Engineering and 7+ years of impactful experience. Proven expertise across the entire data science life cycle, from data acquisition to solutions deployment using both R and Python. Strong background in cutting-edge machine learning algorithms and statistical modeling at scale. Applied knowledge in Healthcare, Energy, Higher Education, and Transportation industries. Entrepreneur, teacher, researcher, effective communicator, and collaborative team player.\n\n\nEducation\n\nPh.D. in Industrial and Systems Engineering, University of Akron, Akron, OH, USA, 2017\nM.Sc. in Industrial and Systems Engineering, University of Akron, Akron, OH, USA, 2014\nB.Sc. in Electro-Mechanical Engineering, Jordan University of Science and Technology, Irbid, Jordan, 2007"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Dr. Alaa Alghwiri",
+    "section": "",
+    "text": "Full Time | July 2022 - Current\n\nSpearheaded the development of precise predictive models to identify patients susceptible to adverse events using sophisticated machine learning methodologies.\nTested the effectiveness of a multifaceted Electronic Health Records (EHR)-based Population Health Management (PHM) intervention to improve evidence-based Chronic Kidney Disease care in high-risk patients.\nUtilized mixed-effect models to analyze the impact of various factors on pain, fatigue, and depression, providing valuable insights into effective intervention strategies.\nDesigned and implemented a Tkinter application in Python to map addresses into the Area Deprivation Index (ADI), facilitating targeted resource allocation for underserved communities.\n\n\n\n\nPart Time | April 2023 - Current\n\nInstructed comprehensive courses on Data Science, covering a spectrum from foundational mathematical and statistical concepts to advanced topics.\nDesigned and delivered engaging modules on data exploration, visualization techniques, and best practices, fostering a deep understanding among students.\nEquipped learners with practical skills in applied Data Science and Machine Learning, utilizing both R and Python programming languages.\nReceived consistently positive feedback for adeptly balancing theoretical knowledge with hands-on learning experiences, ensuring students grasp concepts effectively and confidently apply them in real-world scenarios.\n\n\n\n\nPart Time | January 2020 - June 2022\n\nLed a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application for real-time monitoring within energy plants. Successfully secured $700,000 in funding in the pre-seed stage.\nOversaw the entire development lifecycle from conceptualization to execution, ensuring seamless integration and optimal performance.\nLed the data science team in developing an energy generation forecasting tool using advanced statistical analysis and machine learning algorithms.\n\n\n\n\nFull Time | October 2017 - June 2022\n\nUtilized data analytics tools to automate the generation of yearly/ad-hoc insights in static and dynamic formats, integrating data from multiple resources.\nImproved University of Pittsburgh’s US News Ranking by 4 steps (between 2020 and 2021) using Machine Learning techniques including SVM, Random Forest, and Gradient Boosting.\nDeveloped highly accurate (96%) predictive models for students’ success indicators (retention, dropout, and graduation), enabling proactive advising for students in need.\nCollaborated with school deans to make data-informed investment decisions, optimizing the school’s US News and World Report ranking.\nAutomated recurring reports on gender and ethnic group equity, as well as admission and financial aid reports for the office of the provost and deans."
+  },
+  {
+    "objectID": "experience.html#professional-experience-1",
+    "href": "experience.html#professional-experience-1",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Full Time | July 2022 - Current\n\nSpearheaded the development of precise predictive models to identify patients susceptible to adverse events using sophisticated machine learning methodologies.\nTested the effectiveness of a multifaceted Electronic Health Records (EHR)-based Population Health Management (PHM) intervention to improve evidence-based Chronic Kidney Disease care in high-risk patients.\nUtilized mixed-effect models to analyze the impact of various factors on pain, fatigue, and depression, providing valuable insights into effective intervention strategies.\nDesigned and implemented a Tkinter application in Python to map addresses into the Area Deprivation Index (ADI), facilitating targeted resource allocation for underserved communities.\n\n\n\n\nPart Time | April 2023 - Current\n\nInstructed comprehensive courses on Data Science, covering a spectrum from foundational mathematical and statistical concepts to advanced topics.\nDesigned and delivered engaging modules on data exploration, visualization techniques, and best practices, fostering a deep understanding among students.\nEquipped learners with practical skills in applied Data Science and Machine Learning, utilizing both R and Python programming languages.\nReceived consistently positive feedback for adeptly balancing theoretical knowledge with hands-on learning experiences, ensuring students grasp concepts effectively and confidently apply them in real-world scenarios.\n\n\n\n\nPart Time | January 2020 - June 2022\n\nLed a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application for real-time monitoring within energy plants. Successfully secured $700,000 in funding in the pre-seed stage.\nOversaw the entire development lifecycle from conceptualization to execution, ensuring seamless integration and optimal performance.\nLed the data science team in developing an energy generation forecasting tool using advanced statistical analysis and machine learning algorithms.\n\n\n\n\nFull Time | October 2017 - June 2022\n\nUtilized data analytics tools to automate the generation of yearly/ad-hoc insights in static and dynamic formats, integrating data from multiple resources.\nImproved University of Pittsburgh’s US News Ranking by 4 steps (between 2020 and 2021) using Machine Learning techniques including SVM, Random Forest, and Gradient Boosting.\nDeveloped highly accurate (96%) predictive models for students’ success indicators (retention, dropout, and graduation), enabling proactive advising for students in need.\nCollaborated with school deans to make data-informed investment decisions, optimizing the school’s US News and World Report ranking.\nAutomated recurring reports on gender and ethnic group equity, as well as admission and financial aid reports for the office of the provost and deans."
+  },
+  {
+    "objectID": "experience.html#professional-experience",
+    "href": "experience.html#professional-experience",
+    "title": "Dr. Alaa Alghwiri",
+    "section": "",
+    "text": "Full Time | July 2022 - Current\n\nSpearheaded the development of precise predictive models to identify patients susceptible to adverse events using sophisticated machine learning methodologies.\nTested the effectiveness of a multifaceted Electronic Health Records (EHR)-based Population Health Management (PHM) intervention to improve evidence-based Chronic Kidney Disease care in high-risk patients.\nUtilized mixed-effect models to analyze the impact of various factors on pain, fatigue, and depression, providing valuable insights into effective intervention strategies.\nDesigned and implemented a Tkinter application in Python to map addresses into the Area Deprivation Index (ADI), facilitating targeted resource allocation for underserved communities.\n\n\n\n\nPart Time | April 2023 - Current\n\nInstructed comprehensive courses on Data Science, covering a spectrum from foundational mathematical and statistical concepts to advanced topics.\nDesigned and delivered engaging modules on data exploration, visualization techniques, and best practices, fostering a deep understanding among students.\nEquipped learners with practical skills in applied Data Science and Machine Learning, utilizing both R and Python programming languages.\nReceived consistently positive feedback for adeptly balancing theoretical knowledge with hands-on learning experiences, ensuring students grasp concepts effectively and confidently apply them in real-world scenarios.\n\n\n\n\nPart Time | January 2020 - June 2022\n\nLed a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application for real-time monitoring within energy plants. Successfully secured $700,000 in funding in the pre-seed stage.\nOversaw the entire development lifecycle from conceptualization to execution, ensuring seamless integration and optimal performance.\nLed the data science team in developing an energy generation forecasting tool using advanced statistical analysis and machine learning algorithms.\n\n\n\n\nFull Time | October 2017 - June 2022\n\nUtilized data analytics tools to automate the generation of yearly/ad-hoc insights in static and dynamic formats, integrating data from multiple resources.\nImproved University of Pittsburgh’s US News Ranking by 4 steps (between 2020 and 2021) using Machine Learning techniques including SVM, Random Forest, and Gradient Boosting.\nDeveloped highly accurate (96%) predictive models for students’ success indicators (retention, dropout, and graduation), enabling proactive advising for students in need.\nCollaborated with school deans to make data-informed investment decisions, optimizing the school’s US News and World Report ranking.\nAutomated recurring reports on gender and ethnic group equity, as well as admission and financial aid reports for the office of the provost and deans."
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Dr. Alaa Alghwiri",
+    "section": "",
+    "text": "Manisha Jhamb, et al. “Electronic Health Record Population Health Management for Chronic Kidney Disease Care: A Cluster Randomized Clinical Trial.” JAMA Internal Medicine, 2024.\nSalah S. Al-Zaiti, et al. “A clinician’s guide to understanding and critically appraising machine learning studies: a checklist for Ruling Out Bias Using Standard Tools in Machine Learning (ROBUST-ML).”\nAlia A Alghwiri, et al. “Predictors of sleep quality among university students: the use of advanced machine learning techniques.” Springer - Sleep and Breathing, 2023.\n\n\n\n\n\nAlaa A Alghwiri, et al. “University parking system analysis through discrete event simulation.” Proceedings of the 2017 Industrial and Systems Engineering Conference, Pittsburgh, PA.\nAlaa A Alghwiri, et al. “Modeling and optimizing university shuttle bus system through bus diversion.” Proceedings of the 2017 Industrial and Systems Engineering Conference, Pittsburgh, PA.\n\n\n\n\n\nKallem CJ, et al. “Day-to-day and diurnal variations in patient-reported symptoms among patients on dialysis.” National Kidney Foundation 2024 Spring Clinical Meetings.\nKallem CJ, et al. “Associations between pain, depression, fatigue, and cytokines in patients with end-stage kidney disease.” Society of Behavioral Medicine 45th Annual Meeting & Scientific Sessions.\nManisha Jhamb, et al. “Electronic Health Record based Population Health Management to optimize care in CKD: A Cluster Randomized Clinical Trial (Kidney CHAMP).” American Society of Nephrology (ASN) 2023."
+  },
+  {
+    "objectID": "Publications.html#publications",
+    "href": "Publications.html#publications",
+    "title": "Dr. Alaa Alghwiri",
+    "section": "",
+    "text": "Manisha Jhamb, et al. “Electronic Health Record Population Health Management for Chronic Kidney Disease Care: A Cluster Randomized Clinical Trial.” JAMA Internal Medicine, 2024.\nSalah S. Al-Zaiti, et al. “A clinician’s guide to understanding and critically appraising machine learning studies: a checklist for Ruling Out Bias Using Standard Tools in Machine Learning (ROBUST-ML).”\nAlia A Alghwiri, et al. “Predictors of sleep quality among university students: the use of advanced machine learning techniques.” Springer - Sleep and Breathing, 2023.\n\n\n\n\n\nAlaa A Alghwiri, et al. “University parking system analysis through discrete event simulation.” Proceedings of the 2017 Industrial and Systems Engineering Conference, Pittsburgh, PA.\nAlaa A Alghwiri, et al. “Modeling and optimizing university shuttle bus system through bus diversion.” Proceedings of the 2017 Industrial and Systems Engineering Conference, Pittsburgh, PA.\n\n\n\n\n\nKallem CJ, et al. “Day-to-day and diurnal variations in patient-reported symptoms among patients on dialysis.” National Kidney Foundation 2024 Spring Clinical Meetings.\nKallem CJ, et al. “Associations between pain, depression, fatigue, and cytokines in patients with end-stage kidney disease.” Society of Behavioral Medicine 45th Annual Meeting & Scientific Sessions.\nManisha Jhamb, et al. “Electronic Health Record based Population Health Management to optimize care in CKD: A Cluster Randomized Clinical Trial (Kidney CHAMP).” American Society of Nephrology (ASN) 2023."
+  },
+  {
+    "objectID": "Publications.html#training-certificates",
+    "href": "Publications.html#training-certificates",
+    "title": "Dr. Alaa Alghwiri",
+    "section": "Training & Certificates",
+    "text": "Training & Certificates\n\nComputational Thinking using Python - 2022 (MITx)\nIntroduction to Computer Science and Programming Using Python - 2020 (MITx)\nSQL Tips, Tricks, & Techniques - 2019\nGit Branches, Merges, and Remotes - 2019\nPython for Data Science - 2018\nExtending Hadoop for Data Science - 2018\nMachine Learning A-Z: Hands on Using R and Python - 2018\nLearning Git and GitHub - 2018\nMastering Tableau for Visualization - 2018\nAdvanced SQL for Data Scientists - 2017\nApache Spark for Big Data Applications - 2017\nMachine Learning and AI Foundation - 2017\nPractical Data Science in R - 2017\nAdvanced Analytics in R for Data Science - 2017\nR Programming A-Z - 2017\nAWS Big Data - 2017\nCertified Six Sigma Green Belt, American Society for Quality (ASQ) - 2017\nRapid Modeling with Simio Intelligent Objects - 2016"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nJun 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Dr. Alaa Alghwiri"
+  search: 
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Professional Experience
+        href: experience.qmd
+      - text: Projects
+        href: projects.html
+      - text: Publications
+        href: Publications.qmd
+      - text: Resume
+        href: resume.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/AlaaAAlghwiri
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alaa-a-alghwiri-0a215583
+      - text: ReserachGate 
+        icon: researchgate
+        href: https://www.researchgate.net/profile/Alaa-Alghwiri
+format:
+  html:
+    theme: 
+      light: sanstone
+      dark: darkly
+    css: styles.css
+
+editor: visual
+

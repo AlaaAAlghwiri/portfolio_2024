@@ -1,0 +1,29 @@
+---
+title: "Dr. Alaa Alghwiri"
+image: images/my_pic.png
+about:
+  template: broadside
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/alaa-a-alghwiri-0a215583/
+    - text: GitHub
+      icon: github
+      href: https://github.com/AlaaAAlghwiri
+    - text: ResearchGate
+      icon: researchgate
+      href: https://www.researchgate.net/profile/Alaa-Alghwiri
+    - icon: envelope
+      text: Contact me
+      href: mailto:alaa.alghwiri84@gmail.com
+---
+
+# Biography
+
+Highly skilled Data Scientist with a Ph.D. in Industrial Engineering and 7+ years of impactful experience. Proven expertise across the entire data science life cycle, from data acquisition to solutions deployment using both R and Python. Strong background in cutting-edge machine learning algorithms and statistical modeling at scale. Applied knowledge in Healthcare, Energy, Higher Education, and Transportation industries. Entrepreneur, teacher, researcher, effective communicator, and collaborative team player.
+
+# Education
+
+-   Ph.D. in Industrial and Systems Engineering, University of Akron, Akron, OH, USA, 2017
+-   M.Sc. in Industrial and Systems Engineering, University of Akron, Akron, OH, USA, 2014
+-   B.Sc. in Electro-Mechanical Engineering, Jordan University of Science and Technology, Irbid, Jordan, 2007
