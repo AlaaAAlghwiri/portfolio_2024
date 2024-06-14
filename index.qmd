@@ -11,7 +11,7 @@ about:
       icon: github
       href: https://github.com/AlaaAAlghwiri
     - text: ResearchGate
-      icon: researchgate
+      icon: images/researchgate.svg
       href: https://www.researchgate.net/profile/Alaa-Alghwiri
     - icon: envelope
       text: Contact me

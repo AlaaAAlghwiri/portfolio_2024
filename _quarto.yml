@@ -19,13 +19,12 @@ website:
       - text: Resume
         href: resume.qmd
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/AlaaAAlghwiri
       - icon: linkedin
         href: https://www.linkedin.com/in/alaa-a-alghwiri-0a215583
       - text: ReserachGate 
-        icon: researchgate
+        icon: images/researchgate.svg
         href: https://www.researchgate.net/profile/Alaa-Alghwiri
 format:
   html:
