@@ -25,19 +25,19 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nJun 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Medication Therapy Problems Predictions\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nAlaa Alghwiri\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost-dialysis Fatigue\n\n\n\nnews\n\n\n\n\n\n\n\nAlaa Alghwiri\n\n\nJun 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBaseline EMA\n\n\n\nnews\n\n\n\n\n\n\n\nAlaa Alghwiri\n\n\nJun 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Medication Therapy Problems Predictions",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Post-dialysis Fatigue",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
@@ -61,5 +61,26 @@
     "title": "Dr. Alaa Alghwiri",
     "section": "",
     "text": "Manisha Jhamb, et al. “Electronic Health Record Population Health Management for Chronic Kidney Disease Care: A Cluster Randomized Clinical Trial.” JAMA Internal Medicine, 2024.\nSalah S. Al-Zaiti, et al. “A clinician’s guide to understanding and critically appraising machine learning studies: a checklist for Ruling Out Bias Using Standard Tools in Machine Learning (ROBUST-ML).”\nAlia A Alghwiri, et al. “Predictors of sleep quality among university students: the use of advanced machine learning techniques.” Springer - Sleep and Breathing, 2023.\n\n\n\n\n\nAlaa A Alghwiri, et al. “University parking system analysis through discrete event simulation.” Proceedings of the 2017 Industrial and Systems Engineering Conference, Pittsburgh, PA.\nAlaa A Alghwiri, et al. “Modeling and optimizing university shuttle bus system through bus diversion.” Proceedings of the 2017 Industrial and Systems Engineering Conference, Pittsburgh, PA.\n\n\n\n\n\nKallem CJ, et al. “Day-to-day and diurnal variations in patient-reported symptoms among patients on dialysis.” National Kidney Foundation 2024 Spring Clinical Meetings.\nKallem CJ, et al. “Associations between pain, depression, fatigue, and cytokines in patients with end-stage kidney disease.” Society of Behavioral Medicine 45th Annual Meeting & Scientific Sessions.\nManisha Jhamb, et al. “Electronic Health Record based Population Health Management to optimize care in CKD: A Cluster Randomized Clinical Trial (Kidney CHAMP).” American Society of Nephrology (ASN) 2023."
+  },
+  {
+    "objectID": "posts/mtp risk prediction /index.html",
+    "href": "posts/mtp risk prediction /index.html",
+    "title": "Medication Therapy Problems Predictions",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/baseline ema/index.html",
+    "href": "posts/baseline ema/index.html",
+    "title": "Baseline EMA",
+    "section": "",
+    "text": "Background: Patients with end-stage kidney disease (ESKD) on hemodialysis (HD) experience a high symptom burden which is compounded by unpredictable fluctuations in symptom severity. However, few studies have used ecological momentary assessment (EMA) to determine how symptoms vary over time. This study aimed to characterize the diurnal and day-to-day variability in symptoms among HD patients.\nMethods: Patients enrolled in the Technology Assisted Collaborative Care (TĀCcare) trial rated the intensity of physical, cognitive, and mood symptoms using an automated telephone-administered version of the Daytime Insomnia Symptom Scale (DISS) at 4 time-points (morning, early afternoon, late afternoon, evening) for 7 consecutive days at baseline. Confirmatory factor analysis (CFA) was used to verify the original 4-factor solution for the DISS: sleepiness/fatigue (SF), alert cognition (AC), positive mood (PM), and negative mood (NM). Symptom domain scores were calculated for each time point and mixed modeling with random patient effects was used to examine differences in daily symptoms daily time points between HD and non-HD days after controlling for age, gender, race, and comorbidities.\nResults: 160 patients were enrolled (mean age 57.6±13.8 years, 45% women, 52% White). Diurnal symptom variation existed; trends were non-linear and differed by HD vs. non-HD day. Day-to-day symptom variation also existed; patients endorsed better physical, cognitive, and mood states (i.e., higher AC and PM) as well as lower symptom burden (i.e., lower SF and NM) on non-HD days compared to HD days at all time-points. The greatest day-to-day mean differences (MDs) were observed in the early afternoon for all symptom domains: AC (MD=0.17 p&lt;0.001), PM (MD =0.28, p&lt;0.001), SF (MD =-0.66, p&lt;0.001), and NM (MD =-0.26, p&lt;0.001).\nConclusions: Patients with ESKD demonstrate diurnal variation in symptoms and greater symptom burden on HD days compared to non-HD days, with the most extreme differences in symptom severity occurring in the early afternoon."
+  },
+  {
+    "objectID": "posts/post-dial fatigue/index.html",
+    "href": "posts/post-dial fatigue/index.html",
+    "title": "Post-dialysis Fatigue",
+    "section": "",
+    "text": "Background: Patients with ESKD have a high symptom burden and many report an acute exacerbation of symptoms immediately following hemodialysis (HD). While post-dialysis fatigue has been studied, very few studies have used ecological momentary assessment (EMA) to examine post-HD symptom experiences.\nMethods: Participants in the Technology Assisted Collaborative Care (TĀCcare) trial completed an automated telephone-administered version of the Daytime Insomnia Symptom Scale (DISS) at 4 timepoints daily for 7 consecutive days. The DISS yields 4 symptom domain scores: Positive mood (PM), negative mood (NM), alert cognition (AC), and sleepiness/fatigue (SF). Post-HD symptom scores were compared to the corresponding timepoints on non-HD days via mixed models adjusting for age, race, sex, and Charlson Comorbidity Index. Demographic, psychosocial, and disease-specific characteristics were compared between patients who did versus did not show a post-HD increase of ≥1 point in the sum of SF and NM.\nResults: 160 HD patients were enrolled [mean age=58±14 years, 55% men, 52% White]. In the post-HD period, patients reported significantly lower PM [mean difference (MD)= -0.22, 95% CI (-0.29, -0.14), p&lt;0.001] and AC [MD= -0.13, 95% CI (-0.18, -0.08), p&lt;0.001] and significantly higher NM [MD=0.12, 95% CI (0.05, 0.19), p&lt;0.001] and SF [MD=0.51, 95% CI (0.42, 0.61), p&lt;0.001] symptoms, compared to non-HD days. Patients who endorsed an increase in symptoms (NM or SF ≥1 point) in the post-HD period reported lower baseline fatigue (on FACIT-F) than those who did not (p=0.02); no other between-group differences were observed.\nConclusions: Patients with ESKD tend to experience worsening of both fatigue and mood symptoms after HD treatments. Our findings align with recent critiques that the PDF label fails to adequately describe the post-HD symptom experiences of patients with ESKD. As such, we recommend a new diagnostic term: Post-dialysis syndrome (PDS). Future studies should utilize EMA to assess a broader range of potential PDS symptoms."
   }
 ]
