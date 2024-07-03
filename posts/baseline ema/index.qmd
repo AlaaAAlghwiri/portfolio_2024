@@ -1,0 +1,15 @@
+---
+title: "Baseline EMA"
+author: "Alaa Alghwiri"
+date: "2024-06-07"
+categories: [Dialysis Symptoms]
+image: "postdialfatigue.jpg"
+---
+
+-   **Background**: Patients with end-stage kidney disease (ESKD) on hemodialysis (HD) experience a high symptom burden which is compounded by unpredictable fluctuations in symptom severity. However, few studies have used ecological momentary assessment (EMA) to determine how symptoms vary over time. This study aimed to characterize the diurnal and day-to-day variability in symptoms among HD patients.
+
+-   **Methods**: Patients enrolled in the Technology Assisted Collaborative Care (TĀCcare) trial rated the intensity of physical, cognitive, and mood symptoms using an automated telephone-administered version of the Daytime Insomnia Symptom Scale (DISS) at 4 time-points (morning, early afternoon, late afternoon, evening) for 7 consecutive days at baseline. Confirmatory factor analysis (CFA) was used to verify the original 4-factor solution for the DISS: sleepiness/fatigue (SF), alert cognition (AC), positive mood (PM), and negative mood (NM). Symptom domain scores were calculated for each time point and mixed modeling with random patient effects was used to examine differences in daily symptoms daily time points between HD and non-HD days after controlling for age, gender, race, and comorbidities.
+
+-   **Results**: 160 patients were enrolled (mean age 57.6±13.8 years, 45% women, 52% White). Diurnal symptom variation existed; trends were non-linear and differed by HD vs. non-HD day. Day-to-day symptom variation also existed; patients endorsed better physical, cognitive, and mood states (i.e., higher AC and PM) as well as lower symptom burden (i.e., lower SF and NM) on non-HD days compared to HD days at all time-points. The greatest day-to-day mean differences (MDs) were observed in the early afternoon for all symptom domains: AC (MD=0.17 p\<0.001), PM (MD =0.28, p\<0.001), SF (MD =-0.66, p\<0.001), and NM (MD =-0.26, p\<0.001).
+
+-   **Conclusions**: Patients with ESKD demonstrate diurnal variation in symptoms and greater symptom burden on HD days compared to non-HD days, with the most extreme differences in symptom severity occurring in the early afternoon.

@@ -1,0 +1,15 @@
+---
+title: "Effect of a population health management intervention on medication therapy problems in people with chronic kidney disease"
+author: "Alaa Alghwiri"
+date: "2024-06-07"
+categories: [Medication Therapy Problems]
+image: "phm_mtp.jpg"
+---
+
+- **Background**: People with chronic kidney disease (CKD) are at high-risk of experiencing medication therapy problems (MTPs) due to high comorbidity and medication burden. This study aims to characterize MTPs in patients with non-dialysis dependent CKD who participated in the Kidney Coordinated HeAlth Management Partnership (K-CHAMP) trial, which tested a multidisciplinary population health management (PHM) intervention versus usual care on CKD evidence-based care delivery in the primary care setting. 
+
+- **Methods**: K-CHAMP enrolled 1,596 patients (754 intervention, 842 usual care control) from 101 cluster-randomized primary care practices. Patients were 18-85 years with estimated glomerular filtration rate (eGFR) <60 mL/min/1.73m2, moderate-high risk of CKD progression, and not seeing a nephrologist. MTPs were identified through medication reviews completed by clinical pharmacists.
+
+- **Results**: Medication reviews were completed for 730 (97%) intervention arm patients, with average age 74 ± 9 years and eGFR 37 ± 8 mL/min/1.73m2. Polypharmacy was evident in 63% of participants, who were prescribed an average of 6 medications. At baseline, 77.5% of patients experienced at least 1 MTP and medication discrepancies were observed in 79% of patients. The most common MTP was indication without drug, largely due to an indication for an SGLT-2 inhibitor. In patients with an MTP at baseline and at least one follow-up encounter, the cumulative rate of MTP resolution was 92% at 12-months.
+
+- **Conclusion**: MTPs and medication discrepancies are present in most patients with non-dialysis dependent CKD. Medication management through multidisciplinary team care can optimize medication therapy for patients with CKD.

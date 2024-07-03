@@ -1,1 +1,1 @@
-Sitemap: https://581a8607-e5cc-4ad4-8fec-69e7106f2eda.netlify.app/sitemap.xml
+Sitemap: https://alaaalghwiri.quarto.pub/portfolio/sitemap.xml

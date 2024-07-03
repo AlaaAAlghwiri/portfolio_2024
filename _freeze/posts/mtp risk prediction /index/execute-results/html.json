@@ -1,0 +1,15 @@
+{
+  "hash": "908c718596809e2b45caf820317492e4",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Medication Therapy Problems Predictions\"\nauthor: \"Alaa Alghwiri\"\ndate: \"2024-06-10\"\ncategories: [news, code, analysis]\nimage: \"mtp.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
