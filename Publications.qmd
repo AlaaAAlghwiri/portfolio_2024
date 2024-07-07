@@ -2,11 +2,15 @@
 
 ### Journals
 
--   [Electronic Health Record Population Health Management for Chronic Kidney Disease Care: A Cluster Randomized Clinical Trial](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2817606) 
+-   [Electronic Health Record Population Health Management for Chronic Kidney Disease Care: A Cluster Randomized Clinical Trial](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2817606)
 
 -   [A clinician’s guide to understanding and critically appraising machine learning studies: a checklist for Ruling Out Bias Using Standard Tools in Machine Learning (ROBUST-ML)](https://academic.oup.com/ehjdh/article/3/2/125/6567505)
 
 -   [Predictors of sleep quality among university students: the use of advanced machine learning techniques](https://link.springer.com/article/10.1007/s11325-020-02150-w)
+
+- [Use of Guideline-Recommended Medication Therapy in a High-Risk CKD Population in the Kidney CHAMP Trial](https://journals.lww.com/jasn/citation/2023/11001/use_of_guideline_recommended_medication_therapy_in.2849.aspx)
+
+- [399-P: Association of Social Determinants of Health with Initiation of Novel Glucose-Lowering Drugs in Patients with Diabetes](https://diabetesjournals.org/diabetes/article/73/Supplement_1/399-P/156607)
 
 ### Conference Papers
 
@@ -15,26 +19,8 @@
 
 ### Conference Posters
 
--	Kallem CJ, Roumelioti M, Alghwiri AA, Yabes JG, Jhamb M, Unruh M. Day-to-day and
-diurnal variations in patient-reported symptoms among patients on dialysis. Poster
-presentation forthcoming at: National Kidney Foundation 2024 Spring Clinical Meetings.
-May 14-18, 2024; Long Beach, CA. Abstract ID: 4454
-Page 3
--	Kallem CJ, Alghwiri AA, Yabes JG, Roumelioti M, Erickson S, Unruh M, Vodovotz Y,
-Jhamb M, Steel JL. Associations between pain, depression, fatigue, and cytokines in
-patients with end-stage kidney disease. Poster presentation forthcoming at: Society of
-Behavioral Medicine 45th Annual Meeting & Scientific Sessions. March 13-16, 2024;
-Philadelphia, PA. Abstract ID: 1623084
--	Manisha Jhamb, Melanie Weltman, Susan Devaraj, Linda-Marie Lavenburg, Zhuoheng
-Han, Alaa Alghwiri, Gary Fischer, Bruce Rollman, Thomas Nolin, Jonathan Yabes.
-Electronic Health Record based Population Health Management to optimize care in CKD:
-A Cluster Randomized Clinical Trial (Kidney CHAMP): American Society of Nephrology
-(ASN) 2023; Philadelphia, PA
--	MR Weltman, Z Han, AA Alghwiri, J Yabes, LU Lavenburg, TD Nolin, M Jhamb. Use of
-guideline-recommended medication therapy in a high-risk chronic kidney disease
-population in the Kidney CHAMP trial: American Society of Nephrology (ASN) 2023;
-Philadelphia, PA
--	Susan M. Devaraj, Jonathan Yabes, Alaa Alghwiri, Manqi Cai, Linda-Marie Lavenburg,
-Khaled Abdel-Kader, Manisha Jhamb. A demographic and community characteristic
-comparison of advanced chronic kidney disease patients seeing versus not
-
+-   Kallem CJ, Roumelioti M, Alghwiri AA, Yabes JG, Jhamb M, Unruh M. Day-to-day and diurnal variations in patient-reported symptoms among patients on dialysis. Poster presentation forthcoming at: National Kidney Foundation 2024 Spring Clinical Meetings. May 14-18, 2024; Long Beach, CA. Abstract ID: 4454 Page 3
+-   Kallem CJ, Alghwiri AA, Yabes JG, Roumelioti M, Erickson S, Unruh M, Vodovotz Y, Jhamb M, Steel JL. Associations between pain, depression, fatigue, and cytokines in patients with end-stage kidney disease. Poster presentation forthcoming at: Society of Behavioral Medicine 45th Annual Meeting & Scientific Sessions. March 13-16, 2024; Philadelphia, PA. Abstract ID: 1623084
+-   Manisha Jhamb, Melanie Weltman, Susan Devaraj, Linda-Marie Lavenburg, Zhuoheng Han, Alaa Alghwiri, Gary Fischer, Bruce Rollman, Thomas Nolin, Jonathan Yabes. Electronic Health Record based Population Health Management to optimize care in CKD: A Cluster Randomized Clinical Trial (Kidney CHAMP): American Society of Nephrology (ASN) 2023; Philadelphia, PA
+-   MR Weltman, Z Han, AA Alghwiri, J Yabes, LU Lavenburg, TD Nolin, M Jhamb. Use of guideline-recommended medication therapy in a high-risk chronic kidney disease population in the Kidney CHAMP trial: American Society of Nephrology (ASN) 2023; Philadelphia, PA
+-   Susan M. Devaraj, Jonathan Yabes, Alaa Alghwiri, Manqi Cai, Linda-Marie Lavenburg, Khaled Abdel-Kader, Manisha Jhamb. A demographic and community characteristic comparison of advanced chronic kidney disease patients seeing versus not
