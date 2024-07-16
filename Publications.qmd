@@ -2,21 +2,21 @@
 
 ### Journals
 
--   [Electronic Health Record Population Health Management for Chronic Kidney Disease Care: A Cluster Randomized Clinical Trial](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2817606)
+-   Jhamb, M., Weltman, M. R., Devaraj, S. M., Lavenburg, L. M. U., Han, Z., **Alghwiri, A. A.**, ... & Yabes, J. G. (2024). [Electronic Health Record Population Health Management for Chronic Kidney Disease Care: A Cluster Randomized Clinical Trial](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2817606). JAMA Internal Medicine.
 
--   [A clinician’s guide to understanding and critically appraising machine learning studies: a checklist for Ruling Out Bias Using Standard Tools in Machine Learning (ROBUST-ML)](https://academic.oup.com/ehjdh/article/3/2/125/6567505)
+-   Al-Zaiti, S. S., **Alghwiri, A. A.**, Hu, X., Clermont, G., Peace, A., Macfarlane, P., & Bond, R. (2022) [A clinician’s guide to understanding and critically appraising machine learning studies: a checklist for Ruling Out Bias Using Standard Tools in Machine Learning (ROBUST-ML)](https://academic.oup.com/ehjdh/article/3/2/125/6567505). European Heart Journal-Digital Health, 3(2), 125-140
 
--   [Predictors of sleep quality among university students: the use of advanced machine learning techniques](https://link.springer.com/article/10.1007/s11325-020-02150-w)
+-   Alghwiri, A. A., Almomani, F., **Alghwiri, A. A.**, & Whitney, S. L. (2021). [Predictors of sleep quality among university students: the use of advanced machine learning techniques](https://link.springer.com/article/10.1007/s11325-020-02150-w). Sleep and Breathing, 25, 1119-1126
 
--   [Use of Guideline-Recommended Medication Therapy in a High-Risk CKD Population in the Kidney CHAMP Trial](https://journals.lww.com/jasn/citation/2023/11001/use_of_guideline_recommended_medication_therapy_in.2849.aspx)
+-   Weltman, M. R., Han, Z., **Alghwiri, A. A.**, Yabes, J., Lavenburg, L. M. U., Nolin, T. D., & Jhamb, M. (2023). [Use of Guideline-Recommended Medication Therapy in a High-Risk CKD Population in the Kidney CHAMP Trial](https://journals.lww.com/jasn/citation/2023/11001/use_of_guideline_recommended_medication_therapy_in.2849.aspx) : SA-PO295. Journal of the American Society of Nephrology, 34(11S), 804-805
 
--   [399-P: Association of Social Determinants of Health with Initiation of Novel Glucose-Lowering Drugs in Patients with Diabetes](https://diabetesjournals.org/diabetes/article/73/Supplement_1/399-P/156607)
+-   MOSSLEMI, M., WELTMAN, M., LAVENBURG, L., MARIE, U., **ALGHWIRI, A.**, YABES, J., ... & JHAMB, M. (2024). 399-P: [399-P: Association of Social Determinants of Health with Initiation of Novel Glucose-Lowering Drugs in Patients with Diabetes](https://diabetesjournals.org/diabetes/article/73/Supplement_1/399-P/156607). Diabetes, 73(Supplement_1)
 
 ### Conference Papers
 
-- **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). **University Parking System Analysis through Discrete Event Simulation**. In IIE Annual Conference. Proceedings (pp. 2039-2044). Institute of Industrial and Systems Engineers (IISE)
+- **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). [University Parking System Analysis through Discrete Event Simulation](https://www.proquest.com/openview/1bb9ff8c47fc346eb92027ee4a7e6d6d/1?pq-origsite=gscholar&cbl=51908). In IIE Annual Conference. Proceedings (pp. 2039-2044). Institute of Industrial and Systems Engineers (IISE)
 
-- **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). **Modeling and Optimizing University Shuttle Bus System through Bus Diversions**. In IIE Annual Conference. Proceedings (pp. 2045-2050). Institute of Industrial and Systems Engineers (IISE)
+- **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). [Modeling and Optimizing University Shuttle Bus System through Bus Diversions](https://www.proquest.com/openview/74104a40bb8800da7bd6b257a3e082c5/1?pq-origsite=gscholar&cbl=51908). In IIE Annual Conference. Proceedings (pp. 2045-2050). Institute of Industrial and Systems Engineers (IISE)
 
 
 ### Conference Posters
