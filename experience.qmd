@@ -1,13 +1,5 @@
 ## Professional Experience
 
-### Adjunct Professor| TrineOnline University
-
-**Part Time | June 2024 - Current**
-
-- Deliver course materials focused on statistical methods and analysis techniques pertinent to IT research. Guide students in applying statistical tools to real-world IT problems and projects.
-- Teach fundamental and advanced concepts of computer science using Python. Create hands-on projects to reinforce learning and encourage practical application of programming skills.
-- Instruct students on the principles and practices of data science and big data analytics.
-
 
 ### Senior Data Scientist \| University of Pittsburgh, Center for Population Health Management
 
@@ -18,23 +10,6 @@
 -   Utilized mixed-effect models to analyze the impact of various factors on pain, fatigue, and depression, providing valuable insights into effective intervention strategies.
 -   Designed and implemented a Tkinter application in Python to map addresses into the Area Deprivation Index (ADI), facilitating targeted resource allocation for underserved communities.
 
-### Data Science Instructor \| Simplilearn
-
-**Part Time \| April 2023 - Current**
-
--   Instructed comprehensive courses on Data Science, covering a spectrum from foundational mathematical and statistical concepts to advanced topics.
--   Designed and delivered engaging modules on data exploration, visualization techniques, and best practices, fostering a deep understanding among students.
--   Equipped learners with practical skills in applied Data Science and Machine Learning, utilizing both R and Python programming languages.
--   Received consistently positive feedback for adeptly balancing theoretical knowledge with hands-on learning experiences, ensuring students grasp concepts effectively and confidently apply them in real-world scenarios.
-
-### Co-Founder and CTO \| Algebra Intelligence
-
-**Part Time \| January 2020 - June 2022**
-
--   Led a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application for real-time monitoring within energy plants. Successfully secured \$700,000 in funding in the pre-seed stage.
--   Oversaw the entire development lifecycle from conceptualization to execution, ensuring seamless integration and optimal performance.
--   Led the data science team in developing an energy generation forecasting tool using advanced statistical analysis and machine learning algorithms.
-
 ### Data Scientist \| University of Pittsburgh, Office of the Provost
 
 **Full Time \| October 2017 - June 2022**
@@ -44,3 +19,32 @@
 -   Developed highly accurate (96%) predictive models for students' success indicators (retention, dropout, and graduation), enabling proactive advising for students in need.
 -   Collaborated with school deans to make data-informed investment decisions, optimizing the school's US News and World Report ranking.
 -   Automated recurring reports on gender and ethnic group equity, as well as admission and financial aid reports for the office of the provost and deans.
+
+## Entrepreneurial Experience
+
+### Co-Founder and CTO \| Algebra Intelligence
+
+**Part Time \| January 2020 - June 2022**
+
+-   Led a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application for real-time monitoring within energy plants. Successfully secured \$700,000 in funding in the pre-seed stage.
+-   Oversaw the entire development lifecycle from conceptualization to execution, ensuring seamless integration and optimal performance.
+-   Led the data science team in developing an energy generation forecasting tool using advanced statistical analysis and machine learning algorithms.
+
+## Teaching Experience
+
+### Adjunct Professor\| TrineOnline University
+
+**Part Time \| June 2024 - Current**
+
+-   Deliver course materials focused on statistical methods and analysis techniques pertinent to IT research. Guide students in applying statistical tools to real-world IT problems and projects.
+-   Teach fundamental and advanced concepts of computer science using Python. Create hands-on projects to reinforce learning and encourage practical application of programming skills.
+-   Instruct students on the principles and practices of data science and big data analytics.
+
+### Data Science Instructor \| Simplilearn
+
+**Part Time \| April 2023 - Current**
+
+-   Instructed comprehensive courses on Data Science, covering a spectrum from foundational mathematical and statistical concepts to advanced topics.
+-   Designed and delivered engaging modules on data exploration, visualization techniques, and best practices, fostering a deep understanding among students.
+-   Equipped learners with practical skills in applied Data Science and Machine Learning, utilizing both R and Python programming languages.
+-   Received consistently positive feedback for adeptly balancing theoretical knowledge with hands-on learning experiences, ensuring students grasp concepts effectively and confidently apply them in real-world scenarios.

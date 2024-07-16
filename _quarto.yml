@@ -10,7 +10,7 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Professional Experience
+      - text: Experience
         href: experience.qmd
       - text: Projects
         href: projects.html
