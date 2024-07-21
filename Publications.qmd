@@ -1,4 +1,4 @@
-## Publications
+## Peer-Reviewed Articles
 
 ### Journals
 
@@ -24,13 +24,7 @@ Kidney Disease](https://journals.lww.com/kidney360/abstract/9900/association_of_
 
 -   MOSSLEMI, M., WELTMAN, M., LAVENBURG, L., MARIE, U., **ALGHWIRI, A.**, YABES, J., ... & JHAMB, M. (2024). 399-P: [399-P: Association of Social Determinants of Health with Initiation of Novel Glucose-Lowering Drugs in Patients with Diabetes](https://diabetesjournals.org/diabetes/article/73/Supplement_1/399-P/156607). Diabetes, 73(Supplement_1)
 
-### Conference Papers
-
--   **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). [University Parking System Analysis through Discrete Event Simulation](https://www.proquest.com/openview/1bb9ff8c47fc346eb92027ee4a7e6d6d/1?pq-origsite=gscholar&cbl=51908). In IIE Annual Conference. Proceedings (pp. 2039-2044). Institute of Industrial and Systems Engineers (IISE)
-
--   **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). [Modeling and Optimizing University Shuttle Bus System through Bus Diversions](https://www.proquest.com/openview/74104a40bb8800da7bd6b257a3e082c5/1?pq-origsite=gscholar&cbl=51908). In IIE Annual Conference. Proceedings (pp. 2045-2050). Institute of Industrial and Systems Engineers (IISE)
-
-### Conference Posters
+### Published abstracts and proceedings:
 
 -   Kallem CJ, Roumelioti M, **Alghwiri AA**, Yabes JG, Jhamb M, Unruh M. **Day-to-day and diurnal variations in patient-reported symptoms among patients on dialysis**. Poster presentation at: National Kidney Foundation 2024 Spring Clinical Meetings. May 14-18, 2024; Long Beach, CA. Abstract ID: 4454
 
@@ -41,3 +35,7 @@ Kidney Disease](https://journals.lww.com/kidney360/abstract/9900/association_of_
 -   MR Weltman, Z Han, **AA Alghwiri**, J Yabes, LU Lavenburg, TD Nolin, M Jhamb. **Use of guideline-recommended medication therapy in a high-risk chronic kidney disease population in the Kidney CHAMP trial**: American Society of Nephrology (ASN) 2023; Philadelphia, PA
 
 -   Susan M. Devaraj, Jonathan Yabes, **Alaa Alghwiri**, Manqi Cai, Linda-Marie Lavenburg, Khaled Abdel-Kader, Manisha Jhamb. **A demographic and community characteristic comparison of advanced chronic kidney disease patients seeing versus not seeing a nephrologist**: American Society of Nephrology (ASN) 2022; Tampa, FL
+
+-   **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). [University Parking System Analysis through Discrete Event Simulation](https://www.proquest.com/openview/1bb9ff8c47fc346eb92027ee4a7e6d6d/1?pq-origsite=gscholar&cbl=51908). In IIE Annual Conference. Proceedings (pp. 2039-2044). Institute of Industrial and Systems Engineers (IISE)
+
+-   **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). [Modeling and Optimizing University Shuttle Bus System through Bus Diversions](https://www.proquest.com/openview/74104a40bb8800da7bd6b257a3e082c5/1?pq-origsite=gscholar&cbl=51908). In IIE Annual Conference. Proceedings (pp. 2045-2050). Institute of Industrial and Systems Engineers (IISE)
