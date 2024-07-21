@@ -2,6 +2,18 @@
 
 ### Journals
 
+- Kallem, Cramer J.; **Alghwiri, Alaa A.**; Yabes, Jonathan; Erickson, Sarah; Han, Zhuoheng;
+Roumelioti, Maria-Eleni; Steel, Jennifer L.; Jhamb, Manisha,a; Unruh, Mark. [Diurnal and
+Daily Symptom Variation in Patients with End-Stage Kidney Disease: An Ecological
+Momentary Assessment Study](https://journals.lww.com/cjasn/pages/articleviewer.aspx?year=9900&issue=00000&article=00425&type=Abstract). Clinical Journal of the American Society of Nephrology,
+July 16, 2024. DOI: 10.2215/CJN.0000000000000524
+
+- Kallem, Cramer J.; **Alghwiri, Alaa A.**; Yabes, Jonathan G.; Roumelioti, Maria-Eleni;
+Erickson, Sarah; Rollman, Bruce L.; Weisbord, Steven; Unruh, Mark; Vodovotz, Yoram;
+Jhamb, Manisha,a; Steel, Jennifer L. [Association of Symptoms and Collaborative Care
+Intervention (TĀCcare) with Systemic Inflammation Biomarkers in End-Stage
+Kidney Disease](https://journals.lww.com/kidney360/abstract/9900/association_of_symptoms_and_collaborative_care.431.aspx). Kidney360, July 16, 2024. DOI: 10.34067/KID.0000000000000512
+
 -   Jhamb, M., Weltman, M. R., Devaraj, S. M., Lavenburg, L. M. U., Han, Z., **Alghwiri, A. A.**, ... & Yabes, J. G. (2024). [Electronic Health Record Population Health Management for Chronic Kidney Disease Care: A Cluster Randomized Clinical Trial](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2817606). JAMA Internal Medicine.
 
 -   Al-Zaiti, S. S., **Alghwiri, A. A.**, Hu, X., Clermont, G., Peace, A., Macfarlane, P., & Bond, R. (2022) [A clinician’s guide to understanding and critically appraising machine learning studies: a checklist for Ruling Out Bias Using Standard Tools in Machine Learning (ROBUST-ML)](https://academic.oup.com/ehjdh/article/3/2/125/6567505). European Heart Journal-Digital Health, 3(2), 125-140
@@ -14,20 +26,18 @@
 
 ### Conference Papers
 
-- **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). [University Parking System Analysis through Discrete Event Simulation](https://www.proquest.com/openview/1bb9ff8c47fc346eb92027ee4a7e6d6d/1?pq-origsite=gscholar&cbl=51908). In IIE Annual Conference. Proceedings (pp. 2039-2044). Institute of Industrial and Systems Engineers (IISE)
+-   **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). [University Parking System Analysis through Discrete Event Simulation](https://www.proquest.com/openview/1bb9ff8c47fc346eb92027ee4a7e6d6d/1?pq-origsite=gscholar&cbl=51908). In IIE Annual Conference. Proceedings (pp. 2039-2044). Institute of Industrial and Systems Engineers (IISE)
 
-- **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). [Modeling and Optimizing University Shuttle Bus System through Bus Diversions](https://www.proquest.com/openview/74104a40bb8800da7bd6b257a3e082c5/1?pq-origsite=gscholar&cbl=51908). In IIE Annual Conference. Proceedings (pp. 2045-2050). Institute of Industrial and Systems Engineers (IISE)
-
+-   **Alghwiri, A.**, Wang, S., & Coleman, J. D. (2017). [Modeling and Optimizing University Shuttle Bus System through Bus Diversions](https://www.proquest.com/openview/74104a40bb8800da7bd6b257a3e082c5/1?pq-origsite=gscholar&cbl=51908). In IIE Annual Conference. Proceedings (pp. 2045-2050). Institute of Industrial and Systems Engineers (IISE)
 
 ### Conference Posters
 
-- Kallem CJ, Roumelioti M, **Alghwiri AA**, Yabes JG, Jhamb M, Unruh M. **Day-to-day and diurnal variations in patient-reported symptoms among patients on dialysis**. Poster presentation at: National Kidney Foundation 2024 Spring Clinical Meetings. May 14-18, 2024; Long Beach, CA. Abstract ID: 4454
+-   Kallem CJ, Roumelioti M, **Alghwiri AA**, Yabes JG, Jhamb M, Unruh M. **Day-to-day and diurnal variations in patient-reported symptoms among patients on dialysis**. Poster presentation at: National Kidney Foundation 2024 Spring Clinical Meetings. May 14-18, 2024; Long Beach, CA. Abstract ID: 4454
 
-- Kallem CJ, **Alghwiri AA**, Yabes JG, Roumelioti M, Erickson S, Unruh M, Vodovotz Y, Jhamb M, Steel JL. **Associations between pain, depression, fatigue, and cytokines in patients with end-stage kidney disease**. Poster presentation at: Society of Behavioral Medicine 45th Annual Meeting & Scientific Sessions. March 13-16, 2024; Philadelphia, PA. Abstract ID: 1623084
+-   Kallem CJ, **Alghwiri AA**, Yabes JG, Roumelioti M, Erickson S, Unruh M, Vodovotz Y, Jhamb M, Steel JL. **Associations between pain, depression, fatigue, and cytokines in patients with end-stage kidney disease**. Poster presentation at: Society of Behavioral Medicine 45th Annual Meeting & Scientific Sessions. March 13-16, 2024; Philadelphia, PA. Abstract ID: 1623084
 
-- Manisha Jhamb, Melanie Weltman, Susan Devaraj, Linda-Marie Lavenburg, Zhuoheng Han, **Alaa Alghwiri**, Gary Fischer, Bruce Rollman, Thomas Nolin, Jonathan Yabes.  **Electronic Health Record based Population Health Management to optimize care in CKD: A Cluster Randomized Clinical Trial (Kidney CHAMP)**: American Society of Nephrology (ASN) 2023; Philadelphia, PA
+-   Manisha Jhamb, Melanie Weltman, Susan Devaraj, Linda-Marie Lavenburg, Zhuoheng Han, **Alaa Alghwiri**, Gary Fischer, Bruce Rollman, Thomas Nolin, Jonathan Yabes. **Electronic Health Record based Population Health Management to optimize care in CKD: A Cluster Randomized Clinical Trial (Kidney CHAMP)**: American Society of Nephrology (ASN) 2023; Philadelphia, PA
 
-- MR Weltman, Z Han, **AA Alghwiri**, J Yabes, LU Lavenburg, TD Nolin, M Jhamb. **Use of guideline-recommended medication therapy in a high-risk chronic kidney disease population in the Kidney CHAMP trial**: American Society of Nephrology (ASN) 2023; Philadelphia, PA
+-   MR Weltman, Z Han, **AA Alghwiri**, J Yabes, LU Lavenburg, TD Nolin, M Jhamb. **Use of guideline-recommended medication therapy in a high-risk chronic kidney disease population in the Kidney CHAMP trial**: American Society of Nephrology (ASN) 2023; Philadelphia, PA
 
-- Susan M. Devaraj, Jonathan Yabes, **Alaa Alghwiri**, Manqi Cai, Linda-Marie Lavenburg, Khaled Abdel-Kader, Manisha Jhamb. **A demographic and community characteristic comparison of advanced chronic kidney disease patients seeing versus not seeing a nephrologist**: American Society of Nephrology (ASN) 2022; Tampa, FL 
-
+-   Susan M. Devaraj, Jonathan Yabes, **Alaa Alghwiri**, Manqi Cai, Linda-Marie Lavenburg, Khaled Abdel-Kader, Manisha Jhamb. **A demographic and community characteristic comparison of advanced chronic kidney disease patients seeing versus not seeing a nephrologist**: American Society of Nephrology (ASN) 2022; Tampa, FL
