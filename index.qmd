@@ -1,6 +1,6 @@
 ---
 title: "Dr. Alaa Alghwiri"
-image: images/my_pic.png
+image: images/july_2024.jpg
 about:
   template: broadside
   links:
