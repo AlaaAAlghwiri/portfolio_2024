@@ -1,0 +1,21 @@
+---
+title: "Predictors of sleep quality among university students: the use of advanced machine learning techniques"
+author: "Alaa Alghwiri"
+date: "2020-07-23"
+categories: [Sleep Quality]
+image: "sq.jpg"
+---
+
+**Purpose**
+To assess the prevalence of sleep disturbances among university students and investigate potential correlated factors and their relative importance in quantifying sleep quality using advanced machine learning techniques.
+
+**Methods**
+A total of 1600 university students participated in this cross-sectional study. Sociodemographic information was collected, and the Pittsburgh Sleep Quality Index (PSQI) was administered to assess sleep quality among university students. Study variables were evaluated using logistic regression and advanced machine learning techniques. Study variables that were significant in the logistic regression and had high mean decrease in model accuracy in the machine learning technique were considered important predictors of sleep quality.
+
+**Results**
+The mean (SD) age of the sample was 26.65 (6.38) and 57% of them were females. The prevalence of poor sleep quality in our sample was 70%. The most accurate and balanced predictive model was the random forest model with a 74% accuracy and a 95% specificity. Age and number of cups of tea per day were identified as protective factors for a better sleep quality, while electronics usage hours, headache, other systematic diseases, and neck pain were found risk factors for poor sleep quality.
+
+**Conclusions**
+Six predictors of poor sleep quality were identified in university students in which 2 of them were protective and 3 were risk factors. The results of this study can be used to promote health and well-being in university students, improve their academic performance, and assist in developing appropriate interventions.
+
+[Read more](https://link.springer.com/article/10.1007/s11325-020-02150-w)

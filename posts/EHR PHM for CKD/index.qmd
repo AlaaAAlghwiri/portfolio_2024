@@ -1,0 +1,23 @@
+---
+title: "Electronic Health Record Population Health Management for Chronic Kidney Disease Care: A Cluster Randomized Clinical Trial"
+author: "Alaa Alghwiri"
+date: "2024-04-15"
+categories: [Population Health Management]
+image: "ehr phm for ckd.jpg"
+---
+
+-   **Importance**: Large gaps in clinical care in patients with chronic kidney disease (CKD) lead to poor outcomes.
+
+-   **Objective**: To compare the effectiveness of an electronic health record–based population health management intervention vs usual care for reducing CKD progression and improving evidence-based care in high-risk CKD.
+
+-   **Design, Setting, and Participants**: The Kidney Coordinated Health Management Partnership (Kidney CHAMP) was a pragmatic cluster randomized clinical trial conducted between May 2019 and July 2022 in 101 primary care practices in Western Pennsylvania. It included patients aged 18 to 85 years with an estimated glomerular filtration rate (eGFR) of less than 60 mL/min/1.73m2 with high risk of CKD progression and no outpatient nephrology encounter within the previous 12 months.
+
+-   **Interventions**: Multifaceted intervention for CKD comanagement with primary care clinicians included a nephrology electronic consultation, pharmacist-led medication management, and CKD education for patients. The usual care group received CKD care from primary care clinicians as usual.
+
+-   **Main Outcomes and Measures**: The primary outcome was time to 40% or greater reduction in eGFR or end-stage kidney disease.
+
+-   **Results**: Among 1596 patients (754 intervention \[47.2%\]; 842 control \[52.8%\]) with a mean (SD) age of 74 (9) years, 928 (58%) were female, 127 (8%) were Black, 9 (0.6%) were Hispanic, and the mean (SD) estimated glomerular filtration rate was 36.8 (7.9) mL/min/1.73m2. Over a median follow-up of 17.0 months, there was no significant difference in rate of primary outcome between the 2 arms (adjusted hazard ratio, 0.96; 95% CI, 0.67-1.38; P = .82). Angiotensin-converting enzyme inhibitor/angiotensin receptor blocker exposure was more frequent in intervention arm compared with the control group (rate ratio, 1.21; 95% CI, 1.02-1.43). There was no difference in the secondary outcomes of hypertension control and exposure to unsafe medications or adverse events between the arms. Several COVID-19–related issues contributed to null findings in the study.
+
+-   **Conclusion and Relevance**: In this study, among patients with moderate-risk to high-risk CKD, a multifaceted electronic health record–based population health management intervention resulted in more exposure days to angiotensin-converting enzyme inhibitors/angiotensin receptor blockers but did not reduce risk of CKD progression or hypertension control vs usual care.
+
+[Read more](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2817606)

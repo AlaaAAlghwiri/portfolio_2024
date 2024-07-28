@@ -1,0 +1,10 @@
+---
+title: "Association of Social Determinants of Health with Initiation of Novel Glucose-Lowering Drugs in Patients with Diabetes—A Post Hoc Analysis of the Kidney-CHAMP Trial"
+author: "Alaa Alghwiri"
+date: "2024-06-14"
+categories: [Social Determinants of Health]
+image: "sdoh.jpg"
+---
+
+**Abstract**: Sodium-glucose cotransporter-2 inhibitors (SGLT-2i) and glucagon-like peptide-1 receptor agonists (GLP-1 RA) are recommended but underutilized in patients with diabetic kidney disease, with different patterns of disparities reported. How social determinants of health (SDOH) shape disparities in SGLT-2i/GLP-1 RA initiation remains to be elucidated. We investigated the SDOH factors associated with SGLT-2i/GLP-1 RA initiation vs. nonuse, among participants with type 2 diabetes and chronic kidney disease enrolled in the Kidney Coordinated HeAlth Management Partnership (Kidney-CHAMP) trial (2019-2022). In the Kidney-CHAMP subpopulation of 890 participants with type 2 diabetes who were not using SGLT-2i/GLP-1 RA at baseline (age: 18-85 yrs., eGFR: 15-30 mL/min/1.73m2), 32% initiated SGLT-2i/GLP-1 RA during the 3-year follow-up period. In multivariable mixed model analysis, age, primary insurance category, and distance to nearest health clinic were the SDOH factors that remained significantly associated with SGLT-2i/GLP-1 RA initiation (Table 1). Our results suggest that access-to-care factors may play a pivotal role in the inadequate adoption of SGLT-2i/GLP-1 RA, emphasizing the need for further research into the mechanisms underlying the impact of SDOH factors on SGLT-2i/GLP-1 RA uptake.
+
