@@ -1,7 +1,7 @@
 ---
-title: "Post-dialysis Fatigue"
+title: "\"In progress\"- Using Ecological Momentary Assessment (EMA) to Examine Post-Hemodialysis Symptom Experiences"
 author: "Alaa Alghwiri"
-date: "2024-06-07"
+date: "2024-10-15"
 categories: [Dialysis Symptoms]
 image: "fatigue.jpg"
 ---
@@ -10,6 +10,6 @@ image: "fatigue.jpg"
 
 -   **Methods**: Participants in the Technology Assisted Collaborative Care (TĀCcare) trial completed an automated telephone-administered version of the Daytime Insomnia Symptom Scale (DISS) at 4 timepoints daily for 7 consecutive days. The DISS yields 4 symptom domain scores: Positive mood (PM), negative mood (NM), alert cognition (AC), and sleepiness/fatigue (SF). Post-HD symptom domain and item-level scores were compared to the corresponding timepoints on non-HD days via mixed models. Linear regression was used to examine the association of increased post-dialysis symptom burden with demographic, psychosocial, and disease-specific sample characteristics. All analyses adjusted for age, race, sex, and Charlson Comorbidity Index.
 
--   **Results**: 160 HD patients were enrolled [mean age=58±14 years, 55% men, 52% White]. In the post-HD period, patients reported significantly lower PM [mean difference (MD)= -0.22, 95% CI (-0.29, -0.14), p<0.001] and AC [MD= -0.13, 95% CI (-0.18, -0.08), p<0.001] and significantly higher NM [MD=0.12, 95% CI (0.05, 0.19), p<0.001] and SF [MD=0.51, 95% CI (0.42, 0.61), p<0.001] symptoms, compared to non-HD days. There were no significant associations between post-dialysis symptom exacerbation and demographic, psychosocial, or disease-specific characteristics.
+-   **Results**: 160 HD patients were enrolled \[mean age=58±14 years, 55% men, 52% White\]. In the post-HD period, patients reported significantly lower PM \[mean difference (MD)= -0.22, 95% CI (-0.29, -0.14), p\<0.001\] and AC \[MD= -0.13, 95% CI (-0.18, -0.08), p\<0.001\] and significantly higher NM \[MD=0.12, 95% CI (0.05, 0.19), p\<0.001\] and SF \[MD=0.51, 95% CI (0.42, 0.61), p\<0.001\] symptoms, compared to non-HD days. There were no significant associations between post-dialysis symptom exacerbation and demographic, psychosocial, or disease-specific characteristics.
 
--   **Conclusions**: Patients with ESKD tend to experience worsening of both fatigue and mood symptoms after HD treatments. Our findings align with recent critiques that the post-dialysis fatigue label does not fully describe the post-HD symptom burden patients experience. Future studies should utilize EMA to assess a broader range of potential post-HD symptoms. 
+-   **Conclusions**: Patients with ESKD tend to experience worsening of both fatigue and mood symptoms after HD treatments. Our findings align with recent critiques that the post-dialysis fatigue label does not fully describe the post-HD symptom burden patients experience. Future studies should utilize EMA to assess a broader range of potential post-HD symptoms.

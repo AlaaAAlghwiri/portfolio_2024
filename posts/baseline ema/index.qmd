@@ -1,7 +1,7 @@
 ---
-title: "Baseline EMA"
+title: "Diurnal and Daily Symptom Variation in Patients with End-Stage Kidney Disease: An Ecological Momentary Assessment Study"
 author: "Alaa Alghwiri"
-date: "2024-06-07"
+date: "2024-07-16"
 categories: [Dialysis Symptoms]
 image: "postdialfatigue.jpg"
 ---
@@ -13,3 +13,5 @@ image: "postdialfatigue.jpg"
 -   **Results**: 160 patients were enrolled (mean age 57.6±13.8 years, 45% women, 52% White). Diurnal symptom variation existed; trends were non-linear and differed by HD vs. non-HD day. Day-to-day symptom variation also existed; patients endorsed better physical, cognitive, and mood states (i.e., higher AC and PM) as well as lower symptom burden (i.e., lower SF and NM) on non-HD days compared to HD days at all time-points. The greatest day-to-day mean differences (MDs) were observed in the early afternoon for all symptom domains: AC (MD=0.17 p\<0.001), PM (MD =0.28, p\<0.001), SF (MD =-0.66, p\<0.001), and NM (MD =-0.26, p\<0.001).
 
 -   **Conclusions**: Patients with ESKD demonstrate diurnal variation in symptoms and greater symptom burden on HD days compared to non-HD days, with the most extreme differences in symptom severity occurring in the early afternoon.
+
+[Read more](https://journals.lww.com/cjasn/pages/articleviewer.aspx?year=9900&issue=00000&article=00425&type=Abstract)

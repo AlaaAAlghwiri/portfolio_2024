@@ -1,25 +1,25 @@
 ---
-title: "Effect of population health management approach on guideline concordant care in patients with chronic kidney disease"
+title: "\"In progress\"- Effect of Population Health Management Approach on Guideline Concordant Care in Patients with Chronic Kidney Disease"
 author: "Alaa Alghwiri"
-date: "2024-06-07"
+date: "2024-11-01"
 categories: [Population Health Management]
 image: "gcc.jpg"
 ---
 
-- **Importance**: Our study is the first large randomized controlled trial to evaluate a population health management (PHM) approach to implement chronic kidney disease (CKD) guideline recommendations and newer therapeutics in the primary care setting.
+-   **Importance**: Our study is the first large randomized controlled trial to evaluate a population health management (PHM) approach to implement chronic kidney disease (CKD) guideline recommendations and newer therapeutics in the primary care setting.
 
-- **Objective**: To compare the effect of an electronic health record (EHR)-based, PHM intervention on guideline concordant CKD medication use and achievement of clinical process outcomes to usual primary care. To describe temporal trends in guideline recommended medications during the study period. 
+-   **Objective**: To compare the effect of an electronic health record (EHR)-based, PHM intervention on guideline concordant CKD medication use and achievement of clinical process outcomes to usual primary care. To describe temporal trends in guideline recommended medications during the study period.
 
-- **Design**: Post-hoc analysis of Kidney Coordinated HeAlth Management Partnership (Kidney CHAMP), a pragmatic randomized controlled trial (5/2019 to 7/2022).
+-   **Design**: Post-hoc analysis of Kidney Coordinated HeAlth Management Partnership (Kidney CHAMP), a pragmatic randomized controlled trial (5/2019 to 7/2022).
 
-- **Setting**: Structured electronic health record data from a large academic health system representative of rural and urban communities in western Pennsylvania. 
+-   **Setting**: Structured electronic health record data from a large academic health system representative of rural and urban communities in western Pennsylvania.
 
-- **Participants**: Adults (age 18-85 years) with estimated glomerular filtration rate (eGFR) \<60 mL/min/1.73m2, following with a University of Pittsburgh primary care provider (PCP), not seeing a nephrologist, and at high risk of CKD progression.
+-   **Participants**: Adults (age 18-85 years) with estimated glomerular filtration rate (eGFR) \<60 mL/min/1.73m2, following with a University of Pittsburgh primary care provider (PCP), not seeing a nephrologist, and at high risk of CKD progression.
 
-- **Intervention**: Kidney CHAMP (an EHR-based, PHM approach to provide guideline-informed individualized CKD management to PCPs) vs usual primary care.
+-   **Intervention**: Kidney CHAMP (an EHR-based, PHM approach to provide guideline-informed individualized CKD management to PCPs) vs usual primary care.
 
-- **Main outcome and measures**: Exposure days to guideline recommended medications (i.e., ACEi/ARB, moderate- or high-intensity statin, SGLT-2i, and GLP-1RA) at end of study. Process outcomes: hypertension control (blood pressure \<130/80 mmHg) and glycemic control (hemoglobin A1c ≤7%) at end of follow-up period, and annual albuminuria testing.
+-   **Main outcome and measures**: Exposure days to guideline recommended medications (i.e., ACEi/ARB, moderate- or high-intensity statin, SGLT-2i, and GLP-1RA) at end of study. Process outcomes: hypertension control (blood pressure \<130/80 mmHg) and glycemic control (hemoglobin A1c ≤7%) at end of follow-up period, and annual albuminuria testing.
 
-- **Results**: All 1596 enrolled Kidney CHAMP patients (mean age 74±9 years, 928 (58%) female, and 127 (8%) Black) from 98 PCP practices (754 patients from 48 intervention practices, and 842 patients from 50 usual care practices) were analyzed. At baseline, mean eGFR was 36 mL/min/1.73m2 and mean UACR was 410 mg/g. After a median 17-month follow-up period, exposure days per year to ACEi/ARB and moderate- or high-intensity statin were not different between arms There were significantly higher exposure days per year to SGLT-2i (56.6 days vs 32.4 days, relative benefit 1.75 \[95% CI 1.15-2.34\]) and GLP-1RA (77.9 days vs 29.3 days, relative benefit 2.66 \[95% CI 1.59-3.73\]) in intervention compared to usual care. However, there was no significant relative benefit (Kidney CHAMP vs usual care) in process outcomes: blood pressure \<130/80 mmHg (1.16 \[95% CI 1.00-1.32\]; 44.8% vs 39.0%), HbA1c \<7% (1.11 \[95% CI 0.94-1.28\]; 53.8% vs 51.4%, relative benefit), or annual UACR testing (1.14 \[95% CI 0.97-1.30\]; 50.6% vs 44.7%). The proportion of patients with an active medication order changed between 2019 to 2022 in the intervention and usual care arms, respectively, for ACEi/ARB \[57.9% to 54.6%; and 56.9% to 50.3%\], moderate- or high-intensity statin \[64.1% to 66.1%; and 51.4% to 60.5%\], SGLT-2i \[6.5% to 27.5%; and 6.7% to 17.7%\] and GLP1RA \[3.1% to 28.3%; and 4.2% to 14.9%\].
+-   **Results**: All 1596 enrolled Kidney CHAMP patients (mean age 74±9 years, 928 (58%) female, and 127 (8%) Black) from 98 PCP practices (754 patients from 48 intervention practices, and 842 patients from 50 usual care practices) were analyzed. At baseline, mean eGFR was 36 mL/min/1.73m2 and mean UACR was 410 mg/g. After a median 17-month follow-up period, exposure days per year to ACEi/ARB and moderate- or high-intensity statin were not different between arms There were significantly higher exposure days per year to SGLT-2i (56.6 days vs 32.4 days, relative benefit 1.75 \[95% CI 1.15-2.34\]) and GLP-1RA (77.9 days vs 29.3 days, relative benefit 2.66 \[95% CI 1.59-3.73\]) in intervention compared to usual care. However, there was no significant relative benefit (Kidney CHAMP vs usual care) in process outcomes: blood pressure \<130/80 mmHg (1.16 \[95% CI 1.00-1.32\]; 44.8% vs 39.0%), HbA1c \<7% (1.11 \[95% CI 0.94-1.28\]; 53.8% vs 51.4%, relative benefit), or annual UACR testing (1.14 \[95% CI 0.97-1.30\]; 50.6% vs 44.7%). The proportion of patients with an active medication order changed between 2019 to 2022 in the intervention and usual care arms, respectively, for ACEi/ARB \[57.9% to 54.6%; and 56.9% to 50.3%\], moderate- or high-intensity statin \[64.1% to 66.1%; and 51.4% to 60.5%\], SGLT-2i \[6.5% to 27.5%; and 6.7% to 17.7%\] and GLP1RA \[3.1% to 28.3%; and 4.2% to 14.9%\].
 
-- **Conclusions and Relevance**: Kidney CHAMP was an effective PHM approach to speed implementation of SGLT-2i and GLP-1RA for CKD in the primary care setting. But, therapeutic inertia may account for lack of difference in ACEi/ARB or statin use and other process measures.
+-   **Conclusions and Relevance**: Kidney CHAMP was an effective PHM approach to speed implementation of SGLT-2i and GLP-1RA for CKD in the primary care setting. But, therapeutic inertia may account for lack of difference in ACEi/ARB or statin use and other process measures.
