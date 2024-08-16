@@ -16,6 +16,8 @@ website:
         href: projects.html
       - text: Publications
         href: Publications.qmd
+      - text: Blogs
+        href: https://alaaalghwiri.quarto.pub/blog/
       - text: Resume
         href: resume.qmd
     right:
