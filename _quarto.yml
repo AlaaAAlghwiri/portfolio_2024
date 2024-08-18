@@ -16,6 +16,8 @@ website:
         href: projects.html
       - text: Publications
         href: Publications.qmd
+      - text: Courses
+        href: courses.html
       - text: Blogs
         href: blogs.html
       - text: Resume
