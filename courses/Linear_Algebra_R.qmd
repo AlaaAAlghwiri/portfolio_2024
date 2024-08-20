@@ -4,44 +4,86 @@ format:
   html:
     code-fold: false
     toc: true
+    toc-depth: 2
+    toc-title: Table of Contents
+    toc-location: left
+    code-links: repo
 author: "Dr. Alaa Alghwiri"
 date: "2024-08-16"
 categories: [Mathematics, R Programming]
 image: "la_r.jpg"
 ---
 
+## Introduction to this course
 This course provides a detailed foundation in linear algebra with practical R code examples.
 
-## Introduction to Linear Algebra
+![Machine Learning Pillars](machine_learning_pillars.png){width=600}
+
 
 ### What is Linear Algebra?
 #### Definition and significance
 ### Applications in various fields
 
-## R Setup
+## Programming Language Setup
+:::{.panel-tabset}
+## Python
+### Installing and Loading Required Packages
+* NumPy (for numerical operations)
+* Scipy (for scientific computing)
+* Matplotlib (for visualization)
+```{python}
+# ! pip install numpy scipy matplotlib scikit-learn
 
-### Installing Required Packages
+import numpy as np
+import scipy.linalg as linalg
+import matplotlib.pyplot as plt
+```
+
+## R
+
+### Installing and Loading Required Packages
 * Matrix (for advanced matrix operations)
 * pracma (for additional mathematical functions)
 * ggplot2 (for visualization)
-
-```{r}
+  
+```{r, warning=FALSE, message=FALSE}
 # install.packages(c("Matrix", "pracma", "ggplot2"))
-```
 
-#### Loading Libraries
-
-```{r}
 library(Matrix)
 library(pracma)
 library(ggplot2)
 ```
+:::
+
 
 ## Vectors
 
 ### Definition and Basic Operations
 #### Creating vectors
 #### Vector addition, subtraction, and scalar multiplication
+:::{.panel-tabset}
+## Python
+```{python}
+# Creating vectors
+v1 = np.array([1, 2, 3])
+v2 = np.array([4, 5, 6])
+
+# Vector addition
+v_add = v1 + v2
+
+# Vector subtraction
+v_sub = v1 - v2
+
+# Scalar multiplication
+scalar = 3
+v_scalar = scalar * v1
+
+print("Vector Addition:", v_add)
+print("Vector Subtraction:", v_sub)
+print("Scalar Multiplication:", v_scalar)
+```
+
+## R
 
 ```{r}
 # Creating vectors
@@ -62,20 +104,38 @@ print(paste("Vector Addition:", paste(v_add, collapse = ", ")))
 print(paste("Vector Subtraction:", paste(v_sub, collapse = ", ")))
 print(paste("Scalar Multiplication:", paste(v_scalar, collapse = ", ")))
 ```
+:::
 
 ### Dot Product
+:::{.panel-tabset}
+## Python
+```{python}
+dot_product = np.dot(v1, v2)
+print("Dot Product:", dot_product)
+```
 
+## R
 ```{r}
 dot_product <- sum(v1 * v2)
 print(paste("Dot Product:", dot_product))
 ```
-
+:::
 ### Norm of a Vector
+
+:::{.panel-tabset}
+## Python
+```{python}
+norm_v1 = np.linalg.norm(v1)
+print("Norm of v1:", norm_v1)
+```
+
+## R
 
 ```{r}
 norm_v1 <- norm(v1, type = "2")
 print(paste("Norm of v1:", norm_v1))
 ```
+:::
 
 ## Matrices
 
@@ -83,6 +143,29 @@ print(paste("Norm of v1:", norm_v1))
 #### Creating matrices
 #### Matrix addition, subtraction, and scalar multiplication
 
+:::{.panel-tabset}
+## Python
+```{python}
+# Creating matrices
+A = np.array([[1, 2], [3, 4]])
+B = np.array([[5, 6], [7, 8]])
+
+# Matrix addition
+A_add_B = A + B
+
+# Matrix subtraction
+A_sub_B = A - B
+
+# Scalar multiplication
+scalar = 2
+A_scalar = scalar * A
+
+print("Matrix Addition:\n", A_add_B)
+print("Matrix Subtraction:\n", A_sub_B)
+print("Scalar Multiplication:\n", A_scalar)
+```
+
+## R
 ```{r}
 # Creating matrices
 A <- matrix(c(1, 3, 2, 4), nrow = 2, byrow = TRUE)
@@ -104,25 +187,53 @@ print(A_sub_B)
 print("Scalar Multiplication:")
 print(A_scalar)
 ```
+:::
 
 #### Matrix Multiplication
+:::{.panel-tabset}
+## Python
+```{python}
+A_mul_B = np.dot(A, B)
+print("Matrix Multiplication:\n", A_mul_B)
+```
 
+## R
 ```{r}
 A_mul_B <- A %*% B
 print("Matrix Multiplication:")
 print(A_mul_B)
 ```
+:::
 
 #### Transpose of a Matrix
+:::{.panel-tabset}
+## Python
+```{python}
+A_transpose = A.T
+print("Transpose of A:\n", A_transpose)
+```
+
+## R
 
 ```{r}
 A_transpose <- t(A)
 print("Transpose of A:")
 print(A_transpose)
 ```
+:::
 
 #### Determinant and Inverse
+:::{.panel-tabset}
+## Python
+```{python}
+det_A = np.linalg.det(A)
+inv_A = np.linalg.inv(A)
 
+print("Determinant of A:", det_A)
+print("Inverse of A:\n", inv_A)
+```
+
+## R
 ```{r}
 det_A <- det(A)
 inv_A <- solve(A)
@@ -131,11 +242,24 @@ print(paste("Determinant of A:", det_A))
 print("Inverse of A:")
 print(inv_A)
 ```
-
+:::
 ## Systems of Linear Equations
 
 ### Solving Systems of Equations
+:::{.panel-tabset}
+## Python
+```{python}
+# Example system: A * x = b
+A = np.array([[3, 2], [1, 2]])
+b = np.array([5, 5])
 
+# Solving for x
+x = np.linalg.solve(A, b)
+print("Solution of the system:")
+print(x)
+```
+
+## R
 ```{r}
 # Example system: A * x = b
 A <- matrix(c(3, 1, 2, 2), nrow = 2)
@@ -146,11 +270,23 @@ x <- solve(A, b)
 print("Solution of the system:")
 print(x)
 ```
+:::
 
 ## Eigenvalues and Eigenvectors
 
 ### Calculating Eigenvalues and Eigenvectors
+:::{.panel-tabset}
+## Python
+```{python}
+eigenvalues, eigenvectors = np.linalg.eig(A)
 
+print("Eigenvalues:")
+print(eigenvalues)
+print("Eigenvectors:")
+print(eigenvectors)
+```
+
+## R
 ```{r}
 eigen_decomp <- eigen(A)
 eigenvalues <- eigen_decomp$values
@@ -161,11 +297,21 @@ print(eigenvalues)
 print("Eigenvectors:")
 print(eigenvectors)
 ```
+:::
 
 ## Singular Value Decomposition (SVD)
 
 ### Understanding SVD
+:::{.panel-tabset}
+## Python
+```{python}
+U, S, Vt = np.linalg.svd(A)
+print("U:\n", U)
+print("S (Singular values):\n", S)
+print("Vt:\n", Vt)
+```
 
+## R
 ```{r}
 svd_decomp <- svd(A)
 U <- svd_decomp$u
@@ -179,11 +325,26 @@ print(S)
 print("Vt:")
 print(Vt)
 ```
+:::
 
 ## Principal Component Analysis (PCA)
 
 ### Applying PCA for Dimensionality Reduction
+:::{.panel-tabset}
+## Python
+```{python}
+from sklearn.decomposition import PCA
 
+# Example data: 3-dimensional points
+X = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+
+# Apply PCA
+pca = PCA(n_components=2)
+X_reduced = pca.fit_transform(X)
+print("Reduced Data:\n", X_reduced)
+```
+
+## R
 ```{r}
 # Example data: 3-dimensional points
 X <- matrix(c(1, 2, 3, 4, 5, 6, 7, 8, 9), nrow = 3, byrow = TRUE)
@@ -195,11 +356,34 @@ X_reduced <- pca$x[, 1:2]  # Reduced to 2 dimensions
 print("Reduced Data:")
 print(X_reduced)
 ```
+:::
 
 ## Linear Transformations and Projections
 
 ### Visualizing Linear Transformations
+:::{.panel-tabset}
+## Python
+```{python}
+# Define a transformation matrix
+T = np.array([[2, 0], [0, 0.5]])
 
+# Define points to transform
+points = np.array([[1, 2, 3], [1, 2, 3]])
+
+# Apply transformation
+transformed_points = np.dot(T, points)
+
+# Plot original and transformed points
+plt.scatter(points[0], points[1], label='Original')
+plt.scatter(transformed_points[0], transformed_points[1], label='Transformed')
+plt.legend()
+plt.title("Linear Transformation")
+plt.xlabel("x")
+plt.ylabel("y")
+plt.show()
+```
+
+## R
 ```{r}
 # Define a transformation matrix
 T <- matrix(c(2, 0, 0, 0.5), nrow = 2)
@@ -220,13 +404,33 @@ ggplot(df, aes(x = x, y = y, color = type)) +
   labs(title = "Linear Transformation", x = "x", y = "y") +
   theme_minimal()
 ```
+:::
 
 ## Applications of Linear Algebra
 
 ### Machine Learning
 
 #### Linear Regression
+:::{.panel-tabset}
+## Python
+```{python}
+from sklearn.linear_model import LinearRegression
 
+# Sample data
+X = np.array([[1], [2], [3], [4], [5]])
+y = np.array([1.1, 2.0, 2.9, 4.1, 5.0])
+
+# Train model
+model = LinearRegression()
+model.fit(X, y)
+
+# Predictions
+predictions = model.predict(X)
+
+print("Predictions:", predictions)
+```
+
+## R
 ```{r}
 # Sample data
 X <- cbind(1, c(1, 2, 3, 4, 5))  # Adding intercept term
@@ -241,12 +445,29 @@ predictions <- predict(model, newdata = data.frame(X))
 print("Predictions:")
 print(predictions)
 ```
+:::
 
 ## Advanced Topics (Optional)
 
 ### Matrix Factorizations
 #### LU Decomposition
 #### QR Decomposition
+:::{.panel-tabset}
+## Python
+```{python}
+# LU Decomposition
+P, L, U = linalg.lu(A)
+print("P:\n", P)
+print("L:\n", L)
+print("U:\n", U)
+
+# QR Decomposition
+Q, R = np.linalg.qr(A)
+print("Q:\n", Q)
+print("R:\n", R)
+```
+
+## R
 
 ```{r}
 # LU Decomposition
@@ -272,5 +493,5 @@ print(Q)
 print("R:")
 print(R)
 ```
-
+:::
 ## Summary and Best Practices
