@@ -1,13 +1,18 @@
 ---
-title: "Linear Algebra with R"
+title: "Linear Algebra"
 format:
   html:
+    embed-resources: true
     code-fold: false
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
     toc-location: left
-    code-links: repo
+    smooth-scroll: true
+    other-links: 
+      - text: GitHub Repository
+        href: "https://github.com/AI-Essentials-Beyond/ai_essentials/tree/main"
+        icon: github
 author: "Dr. Alaa Alghwiri"
 date: "2024-08-16"
 categories: [Mathematics, R Programming]
@@ -15,17 +20,21 @@ image: "la_r.jpg"
 ---
 
 ## Introduction to this course
-This course provides a detailed foundation in linear algebra with practical R code examples.
+This course provides a detailed foundation in linear algebra with practical Python and R code examples.
 
 ![Machine Learning Pillars](machine_learning_pillars.png){width=600}
 
 
 ### What is Linear Algebra?
+
+[Intro to linear algebra](https://www.youtube.com/watch?v=r53nRlcIkCY)
+
+
 #### Definition and significance
 ### Applications in various fields
 
 ## Programming Language Setup
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ### Installing and Loading Required Packages
 * NumPy (for numerical operations)
@@ -61,7 +70,7 @@ library(ggplot2)
 ### Definition and Basic Operations
 #### Creating vectors
 #### Vector addition, subtraction, and scalar multiplication
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 # Creating vectors
@@ -107,7 +116,7 @@ print(paste("Scalar Multiplication:", paste(v_scalar, collapse = ", ")))
 :::
 
 ### Dot Product
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 dot_product = np.dot(v1, v2)
@@ -122,7 +131,7 @@ print(paste("Dot Product:", dot_product))
 :::
 ### Norm of a Vector
 
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 norm_v1 = np.linalg.norm(v1)
@@ -143,7 +152,7 @@ print(paste("Norm of v1:", norm_v1))
 #### Creating matrices
 #### Matrix addition, subtraction, and scalar multiplication
 
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 # Creating matrices
@@ -190,7 +199,7 @@ print(A_scalar)
 :::
 
 #### Matrix Multiplication
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 A_mul_B = np.dot(A, B)
@@ -206,7 +215,7 @@ print(A_mul_B)
 :::
 
 #### Transpose of a Matrix
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 A_transpose = A.T
@@ -223,7 +232,7 @@ print(A_transpose)
 :::
 
 #### Determinant and Inverse
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 det_A = np.linalg.det(A)
@@ -246,7 +255,7 @@ print(inv_A)
 ## Systems of Linear Equations
 
 ### Solving Systems of Equations
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 # Example system: A * x = b
@@ -275,7 +284,7 @@ print(x)
 ## Eigenvalues and Eigenvectors
 
 ### Calculating Eigenvalues and Eigenvectors
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 eigenvalues, eigenvectors = np.linalg.eig(A)
@@ -302,7 +311,7 @@ print(eigenvectors)
 ## Singular Value Decomposition (SVD)
 
 ### Understanding SVD
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 U, S, Vt = np.linalg.svd(A)
@@ -330,7 +339,7 @@ print(Vt)
 ## Principal Component Analysis (PCA)
 
 ### Applying PCA for Dimensionality Reduction
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 from sklearn.decomposition import PCA
@@ -361,7 +370,7 @@ print(X_reduced)
 ## Linear Transformations and Projections
 
 ### Visualizing Linear Transformations
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 # Define a transformation matrix
@@ -411,7 +420,7 @@ ggplot(df, aes(x = x, y = y, color = type)) +
 ### Machine Learning
 
 #### Linear Regression
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 from sklearn.linear_model import LinearRegression
@@ -452,7 +461,7 @@ print(predictions)
 ### Matrix Factorizations
 #### LU Decomposition
 #### QR Decomposition
-:::{.panel-tabset}
+:::{.panel-tabset group="language"}
 ## Python
 ```{python}
 # LU Decomposition
