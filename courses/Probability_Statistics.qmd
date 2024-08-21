@@ -1,0 +1,9 @@
+---
+title: "Probability & Statistics"
+author: "Dr. Alaa Alghwiri"
+date: "2024-08-16"
+categories: [Probability & Statistics, R Programming]
+image: "statistics.png"
+---
+
+Work in progress. This course will cover the basics of probability and statistics, and will include practical examples using R and Python programming languages.

@@ -1,9 +1,0 @@
----
-title: "Introduction to Statistics"
-author: "Dr. Alaa Alghwiri"
-date: "2024-08-16"
-categories: [Statistics, R Programming]
-image: "statistics.png"
----
-
-This is a post with executable code.

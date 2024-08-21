@@ -1,5 +1,5 @@
 ---
-title: "Courses (Work in Progress)"
+title: "Courses"
 listing:
   contents: courses
   sort: "date desc"
