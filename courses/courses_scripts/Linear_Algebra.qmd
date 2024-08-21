@@ -15,14 +15,14 @@ format:
         icon: github
 author: "Dr. Alaa Alghwiri"
 date: "2024-08-16"
-categories: [Mathematics, R Programming, Python Programming]
-image: "la_r.jpg"
+categories: [Linear Algebra]
+image: "images/la_r.jpg"
 ---
 
 ## Introduction to this course
 This course provides a detailed foundation in linear algebra with practical Python and R code examples. Linear Algebra is a fundamental mathematical discipline that plays a crucial role in various fields, including machine learning and data science. This course covers essential concepts such as vectors, matrices, systems of linear equations, eigenvalues, eigenvectors, singular value decomposition (SVD), and principal component analysis (PCA). By the end of this course, you will have a solid understanding of linear algebra and its applications in data science and machine learning.
 
-![Machine Learning Pillars](machine_learning_pillars.png){width=600}
+![Machine Learning Pillars](images/machine_learning_pillars.png){width=600}
 
 ## What is Linear Algebra?
 

@@ -1,0 +1,52 @@
+---
+title: "Calculus"
+format:
+  html:
+    embed-resources: true
+    code-fold: false
+    toc: true
+    toc-depth: 3
+    toc-title: Table of Contents
+    toc-location: left
+    smooth-scroll: true
+    other-links: 
+      - text: GitHub Repository
+        href: "https://github.com/AI-Essentials-Beyond/ai_essentials/tree/main"
+        icon: github
+author: "Dr. Alaa Alghwiri"
+date: "2024-08-16"
+categories: [Calculus]
+image: "images/calculus.jpg"
+---
+
+
+***Work in progress***. This course will cover the basics of calculus, and will include practical examples using R and Python programming languages.
+
+## Introduction to this course
+This course provides a detailed foundation in calculus, covering topics such as limits, derivatives, integrals, differential equations, and applications of calculus. The course will also include practical examples and exercises using R and Python programming languages.
+
+![Machine Learning Pillars](images/machine_learning_pillars_calculus.png){width=600}
+
+## What is 
+
+### Definition
+Calculus is a branch of mathematics that deals with the study of rates of change and accumulation. It includes two main branches: differential calculus, which focuses on the concept of the derivative, and integral calculus, which focuses on the concept of the integral.
+
+### Significance
+Calculus is an essential tool in various fields, including science, engineering, economics, finance, and social sciences. It helps in modeling and analyzing complex systems, optimizing processes, and solving real-world problems.
+
+### Applications in various fields
+Calculus is used in various fields, such as:
+- Science: to model physical systems and analyze experimental data.
+- Engineering: to design and optimize systems and processes.
+- Economics: to model economic behavior and optimize decision-making.
+- Finance: to model financial markets and optimize investment strategies.
+- Social sciences: to model social phenomena and analyze data.
+- Healthcare: to model biological systems and optimize treatment strategies.
+- Machine learning: to build predictive models and analyze data.
+- Quality control: to monitor and improve processes.
+- Computer graphics: to model shapes and animations.
+
+
+## Course Outline
+

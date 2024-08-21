@@ -1,0 +1,50 @@
+---
+title: "R Programming"
+format:
+  html:
+    embed-resources: true
+    code-fold: false
+    toc: true
+    toc-depth: 3
+    toc-title: Table of Contents
+    toc-location: left
+    smooth-scroll: true
+    other-links: 
+      - text: GitHub Repository
+        href: "https://github.com/AI-Essentials-Beyond/ai_essentials/tree/main"
+        icon: github
+author: "Dr. Alaa Alghwiri"
+date: "2024-08-16"
+categories: [Programming]
+image: "images/r_programming.jpg"
+---
+
+**Work in progress**. This course will cover the basics of R programming, and will include practical examples using R programming language.
+## Introduction to this course
+This course provides a detailed foundation in R programming, covering topics such as data types, control structures, functions, classes, and packages. The course will also include practical examples and exercises using R programming language.
+
+![Machine Learning Pillars](images/machine_learning_pillars_programming.png){width=600}
+
+## What is 
+
+### Definition
+R is a high-level, interpreted programming language known for its statistical computing and graphics capabilities. It is widely used in various fields, including data analysis, statistical modeling, machine learning, and data visualization.
+
+### Significance
+R is an essential tool for data scientists, statisticians, and researchers. It is known for its extensive libraries, such as ggplot2, dplyr, and tidyr, that support data manipulation, visualization, and analysis.
+
+### Applications in various fields
+R is used in various fields, such as:
+- Data analysis: to explore, clean, and analyze data.
+- Statistical modeling: to build predictive models and test hypotheses.
+- Machine learning: to develop algorithms and analyze data.
+- Data visualization: to create interactive and informative visualizations.
+- Bioinformatics: to analyze biological data and sequences.
+- Social sciences: to analyze survey data and draw conclusions.
+- Finance: to model financial data and make investment decisions.
+- Healthcare: to analyze patient data and optimize treatment strategies.
+- Environmental science: to model environmental data and trends.
+- Marketing: to analyze customer data and optimize marketing strategies.
+
+## Course Outline
+

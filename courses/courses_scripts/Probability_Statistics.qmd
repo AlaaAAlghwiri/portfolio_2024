@@ -1,0 +1,52 @@
+---
+title: "Probability & Statistics"
+format:
+  html:
+    embed-resources: true
+    code-fold: false
+    toc: true
+    toc-depth: 3
+    toc-title: Table of Contents
+    toc-location: left
+    smooth-scroll: true
+    other-links: 
+      - text: GitHub Repository
+        href: "https://github.com/AI-Essentials-Beyond/ai_essentials/tree/main"
+        icon: github
+author: "Dr. Alaa Alghwiri"
+date: "2024-08-16"
+categories: [Linear Algebra]
+image: "images/prob_stat.jpg"
+---
+
+
+
+**Work in progress**. This course will cover the basics of probability and statistics, and will include practical examples using R and Python programming languages.
+
+## Introduction to this course
+This course provides a detailed foundation in probability and statistics, covering topics such as probability theory, descriptive statistics, inferential statistics, hypothesis testing, and regression analysis. The course will also include practical examples and exercises using R and Python programming languages.
+
+![Machine Learning Pillars](images/machine_learning_pillars_prob_stats.png){width=600}
+
+## What is 
+
+### Definition
+Probability and Statistics are two branches of mathematics that deal with the analysis, interpretation, and presentation of data. Probability theory is concerned with the likelihood of events occurring, while statistics focuses on the collection, analysis, and interpretation of data to make informed decisions.
+
+### Significance
+Probability and statistics are essential tools in various fields, including science, engineering, economics, finance, and social sciences. They help in making predictions, drawing conclusions, and testing hypotheses based on data.
+
+### Applications in various fields
+Probability and statistics are used in various fields, such as:
+- Science: to analyze experimental data and make predictions.
+- Engineering: to design experiments and analyze data.
+- Economics: to analyze market trends and make informed decisions.
+- Finance: to model risk and make investment decisions.
+- Social sciences: to analyze survey data and draw conclusions.
+- Healthcare: to analyze patient data and make treatment decisions.
+- Machine learning: to build predictive models and analyze data.
+- Quality control: to monitor and improve processes.
+
+
+## Course Outline
+

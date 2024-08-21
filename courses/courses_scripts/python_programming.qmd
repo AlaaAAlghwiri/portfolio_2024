@@ -1,0 +1,57 @@
+---
+title: "Python Programming"
+format:
+  html:
+    embed-resources: true
+    code-fold: false
+    toc: true
+    toc-depth: 3
+    toc-title: Table of Contents
+    toc-location: left
+    smooth-scroll: true
+    other-links: 
+      - text: GitHub Repository
+        href: "https://github.com/AI-Essentials-Beyond/ai_essentials/tree/main"
+        icon: github
+author: "Dr. Alaa Alghwiri"
+date: "2024-08-16"
+categories: [Programming]
+image: "images/python.jpg"
+---
+
+
+***Work in progress***. This course will cover the basics of Python programming, and will include practical examples using Python programming language.
+
+## Introduction to this course
+This course provides a detailed foundation in Python programming, covering topics such as data types, control structures, functions, classes, and modules. The course will also include practical examples and exercises using Python programming language.
+
+![Machine Learning Pillars](images/machine_learning_pillars_programming.png){width=600}
+
+## What is 
+
+### Definition
+Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in various fields, including web development, data science, machine learning, and artificial intelligence.
+
+### Significance
+Python is an essential tool for programmers, data scientists, and machine learning engineers. It is known for its ease of use, versatility, and extensive libraries that support various applications.
+
+### Applications in various fields
+Python is used in various fields, such as:
+- Web development: to build websites and web applications.
+- Data science: to analyze and visualize data.
+- Machine learning: to build predictive models and analyze data.
+- Artificial intelligence: to develop intelligent systems and applications.
+- Automation: to automate repetitive tasks and workflows.
+- Scientific computing: to perform complex calculations and simulations.
+- Game development: to create interactive games and simulations.
+- Cybersecurity: to analyze security threats and vulnerabilities.
+- Internet of Things (IoT): to develop IoT applications and devices.
+- Cloud computing: to deploy and manage cloud services.
+- Robotics: to program robots and autonomous systems.
+- Mobile app development: to build mobile applications.
+- Desktop applications: to create desktop applications.
+
+
+
+## Course Outline
+
