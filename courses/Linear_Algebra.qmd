@@ -5,7 +5,7 @@ format:
     embed-resources: true
     code-fold: false
     toc: true
-    toc-depth: 2
+    toc-depth: 3
     toc-title: Table of Contents
     toc-location: left
     smooth-scroll: true
@@ -15,23 +15,26 @@ format:
         icon: github
 author: "Dr. Alaa Alghwiri"
 date: "2024-08-16"
-categories: [Mathematics, R Programming]
+categories: [Mathematics, R Programming, Python Programming]
 image: "la_r.jpg"
 ---
 
 ## Introduction to this course
-This course provides a detailed foundation in linear algebra with practical Python and R code examples.
+This course provides a detailed foundation in linear algebra with practical Python and R code examples. Linear Algebra is a fundamental mathematical discipline that plays a crucial role in various fields, including machine learning and data science. This course covers essential concepts such as vectors, matrices, systems of linear equations, eigenvalues, eigenvectors, singular value decomposition (SVD), and principal component analysis (PCA). By the end of this course, you will have a solid understanding of linear algebra and its applications in data science and machine learning.
 
 ![Machine Learning Pillars](machine_learning_pillars.png){width=600}
 
+## What is Linear Algebra?
 
-### What is Linear Algebra?
+### Definition
+Linear algebra is a branch of mathematics that deals with vector spaces and linear mappings between these spaces. It provides a framework for representing and solving complex problems using vectors, matrices, and linear transformations. 
 
-[Intro to linear algebra](https://www.youtube.com/watch?v=r53nRlcIkCY)
+### Significance
+Learning linear algebra is essential for understanding various data science and machine learning concepts, such as dimensionality reduction, regression, and support vector machines (SVM).
 
-
-#### Definition and significance
 ### Applications in various fields
+Linear algebra has numerous applications in different fields, including:
+Physics, Engineering, Economics, Finance, Cryptography, Data Analysis, Operations Research, Quantum Computing, Statistics, and Natural Language Processing.
 
 ## Programming Language Setup
 :::{.panel-tabset group="language"}
@@ -67,9 +70,8 @@ library(ggplot2)
 
 ## Vectors
 
-### Definition and Basic Operations
-#### Creating vectors
-#### Vector addition, subtraction, and scalar multiplication
+### Creating vectors
+### Vector addition, subtraction, and scalar multiplication
 :::{.panel-tabset group="language"}
 ## Python
 ```{python}
@@ -148,9 +150,8 @@ print(paste("Norm of v1:", norm_v1))
 
 ## Matrices
 
-### Matrix Definition and Basic Operations
-#### Creating matrices
-#### Matrix addition, subtraction, and scalar multiplication
+### Creating matrices
+### Matrix addition, subtraction, and scalar multiplication
 
 :::{.panel-tabset group="language"}
 ## Python
@@ -198,7 +199,7 @@ print(A_scalar)
 ```
 :::
 
-#### Matrix Multiplication
+### Matrix Multiplication
 :::{.panel-tabset group="language"}
 ## Python
 ```{python}
@@ -214,7 +215,7 @@ print(A_mul_B)
 ```
 :::
 
-#### Transpose of a Matrix
+### Transpose of a Matrix
 :::{.panel-tabset group="language"}
 ## Python
 ```{python}
@@ -231,7 +232,7 @@ print(A_transpose)
 ```
 :::
 
-#### Determinant and Inverse
+### Determinant and Inverse
 :::{.panel-tabset group="language"}
 ## Python
 ```{python}
@@ -503,4 +504,3 @@ print("R:")
 print(R)
 ```
 :::
-## Summary and Best Practices
