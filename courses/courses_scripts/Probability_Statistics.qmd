@@ -15,7 +15,7 @@ format:
         icon: github
 author: "Dr. Alaa Alghwiri"
 date: "2024-08-16"
-categories: [Linear Algebra]
+categories: [Probability & Statistics]
 image: "images/prob_stat.jpg"
 ---
 
@@ -28,9 +28,9 @@ This course provides a detailed foundation in probability and statistics, coveri
 
 ![Machine Learning Pillars](images/machine_learning_pillars_prob_stats.png){width=600}
 
-## What is 
 
-### Definition
+
+### What is Probability and Statistic
 Probability and Statistics are two branches of mathematics that deal with the analysis, interpretation, and presentation of data. Probability theory is concerned with the likelihood of events occurring, while statistics focuses on the collection, analysis, and interpretation of data to make informed decisions.
 
 ### Significance
