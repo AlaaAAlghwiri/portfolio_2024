@@ -18,8 +18,6 @@ website:
         href: Publications.qmd
       - text: Courses
         href: courses.html
-      - text: Blogs
-        href: blogs.html
       - text: Resume
         href: resume.qmd
     right:
