@@ -2,8 +2,6 @@
 title: "Professional Resume"
 ---
 
-<iframe width="1300" height="1000" src="images/Alaa Alghwiri Academic Resume_July_21.pdf">
-
-</iframe>
+<iframe width="1300" height="1000" src="images/Alaa Alghwiri Academic Resume_Updated_July_30.pdf"> </iframe>
 
 ------------------------------------------------------------------------

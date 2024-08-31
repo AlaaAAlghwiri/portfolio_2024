@@ -4,6 +4,8 @@
 
 **Full Time \| July 2022 - Current**
 
+-   Extensive experience utilizing Electronic Health Records (EHR) for analysis, demonstrating a deep familiarity with preparing and leveraging EHR data for both statistical and predictive purposes
+-   Utilized causal forest algorithms to evaluate heterogeneity in treatment effects, allowing for a nuanced understanding of how different patient subgroups respond to various interventions
 -   Spearheaded the development of precise predictive models to identify patients susceptible to adverse events using sophisticated machine learning methodologies.
 -   Tested the effectiveness of a multifaceted Electronic Health Records (EHR)-based Population Health Management (PHM) intervention to improve evidence-based Chronic Kidney Disease care in high-risk patients.
 -   Utilized mixed-effect models to analyze the impact of various factors on pain, fatigue, and depression, providing valuable insights into effective intervention strategies.

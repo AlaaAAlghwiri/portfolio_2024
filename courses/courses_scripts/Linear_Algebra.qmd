@@ -29,11 +29,8 @@ This course provides a detailed foundation in linear algebra with practical Pyth
 ### Definition
 Linear algebra is a branch of mathematics that deals with vector spaces and linear mappings between these spaces. It provides a framework for representing and solving complex problems using vectors, matrices, and linear transformations. 
 
-### Significance
-Learning linear algebra is essential for understanding various data science and machine learning concepts, such as dimensionality reduction, regression, and support vector machines (SVM).
-
-### Applications in various fields
-Linear algebra has numerous applications in different fields, including:
+### Significance and Applications in various fields
+Learning linear algebra is essential for understanding various data science and machine learning concepts, such as dimensionality reduction, regression, and support vector machines (SVM). Linear algebra has numerous applications in different fields, including:
 Physics, Engineering, Economics, Finance, Cryptography, Data Analysis, Operations Research, Quantum Computing, Statistics, and Natural Language Processing.
 
 ## Programming Language Setup
@@ -504,3 +501,6 @@ print("R:")
 print(R)
 ```
 :::
+
+## References
+1. Mathematics for Machine Learning, Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong, Cambridge University Press, 2020.
