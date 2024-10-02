@@ -20,26 +20,32 @@ image: "images/la_r.jpg"
 ---
 
 ## Introduction to this course
+
 This course provides a detailed foundation in linear algebra with practical Python and R code examples. Linear Algebra is a fundamental mathematical discipline that plays a crucial role in various fields, including machine learning and data science. This course covers essential concepts such as vectors, matrices, systems of linear equations, eigenvalues, eigenvectors, singular value decomposition (SVD), and principal component analysis (PCA). By the end of this course, you will have a solid understanding of linear algebra and its applications in data science and machine learning.
 
-![Machine Learning Pillars](images/machine_learning_pillars.png){width=600}
+![Machine Learning Pillars](images/machine_learning_pillars.png){width="600"}
 
 ## What is Linear Algebra?
 
 ### Definition
-Linear algebra is a branch of mathematics that deals with vector spaces and linear mappings between these spaces. It provides a framework for representing and solving complex problems using vectors, matrices, and linear transformations. 
+
+Linear algebra is a branch of mathematics that deals with vector spaces and linear mappings between these spaces. It provides a framework for representing and solving complex problems using vectors, matrices, and linear transformations.
 
 ### Significance and Applications in various fields
-Learning linear algebra is essential for understanding various data science and machine learning concepts, such as dimensionality reduction, regression, and support vector machines (SVM). Linear algebra has numerous applications in different fields, including:
-Physics, Engineering, Economics, Finance, Cryptography, Data Analysis, Operations Research, Quantum Computing, Statistics, and Natural Language Processing.
+
+Learning linear algebra is essential for understanding various data science and machine learning concepts, such as dimensionality reduction, regression, and support vector machines (SVM). Linear algebra has numerous applications in different fields, including: Physics, Engineering, Economics, Finance, Cryptography, Data Analysis, Operations Research, Quantum Computing, Statistics, and Natural Language Processing.
 
 ## Programming Language Setup
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ### Installing and Loading Required Packages
-* NumPy (for numerical operations)
-* Scipy (for scientific computing)
-* Matplotlib (for visualization)
+
+-   NumPy (for numerical operations)
+-   Scipy (for scientific computing)
+-   Matplotlib (for visualization)
+
 ```{python}
 # ! pip install numpy scipy matplotlib scikit-learn
 
@@ -51,10 +57,11 @@ import matplotlib.pyplot as plt
 ## R
 
 ### Installing and Loading Required Packages
-* Matrix (for advanced matrix operations)
-* pracma (for additional mathematical functions)
-* ggplot2 (for visualization)
-  
+
+-   Matrix (for advanced matrix operations)
+-   pracma (for additional mathematical functions)
+-   ggplot2 (for visualization)
+
 ```{r, warning=FALSE, message=FALSE}
 # install.packages(c("Matrix", "pracma", "ggplot2"))
 
@@ -64,13 +71,15 @@ library(ggplot2)
 ```
 :::
 
-
 ## Vectors
 
 ### Creating vectors
+
 ### Vector addition, subtraction, and scalar multiplication
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 # Creating vectors
 v1 = np.array([1, 2, 3])
@@ -115,23 +124,28 @@ print(paste("Scalar Multiplication:", paste(v_scalar, collapse = ", ")))
 :::
 
 ### Dot Product
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 dot_product = np.dot(v1, v2)
 print("Dot Product:", dot_product)
 ```
 
 ## R
+
 ```{r}
 dot_product <- sum(v1 * v2)
 print(paste("Dot Product:", dot_product))
 ```
 :::
+
 ### Norm of a Vector
 
-:::{.panel-tabset group="language"}
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 norm_v1 = np.linalg.norm(v1)
 print("Norm of v1:", norm_v1)
@@ -148,10 +162,12 @@ print(paste("Norm of v1:", norm_v1))
 ## Matrices
 
 ### Creating matrices
+
 ### Matrix addition, subtraction, and scalar multiplication
 
-:::{.panel-tabset group="language"}
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 # Creating matrices
 A = np.array([[1, 2], [3, 4]])
@@ -173,6 +189,7 @@ print("Scalar Multiplication:\n", A_scalar)
 ```
 
 ## R
+
 ```{r}
 # Creating matrices
 A <- matrix(c(1, 3, 2, 4), nrow = 2, byrow = TRUE)
@@ -197,14 +214,17 @@ print(A_scalar)
 :::
 
 ### Matrix Multiplication
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 A_mul_B = np.dot(A, B)
 print("Matrix Multiplication:\n", A_mul_B)
 ```
 
 ## R
+
 ```{r}
 A_mul_B <- A %*% B
 print("Matrix Multiplication:")
@@ -213,8 +233,10 @@ print(A_mul_B)
 :::
 
 ### Transpose of a Matrix
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 A_transpose = A.T
 print("Transpose of A:\n", A_transpose)
@@ -230,8 +252,10 @@ print(A_transpose)
 :::
 
 ### Determinant and Inverse
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 det_A = np.linalg.det(A)
 inv_A = np.linalg.inv(A)
@@ -241,6 +265,7 @@ print("Inverse of A:\n", inv_A)
 ```
 
 ## R
+
 ```{r}
 det_A <- det(A)
 inv_A <- solve(A)
@@ -250,11 +275,14 @@ print("Inverse of A:")
 print(inv_A)
 ```
 :::
+
 ## Systems of Linear Equations
 
 ### Solving Systems of Equations
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 # Example system: A * x = b
 A = np.array([[3, 2], [1, 2]])
@@ -267,6 +295,7 @@ print(x)
 ```
 
 ## R
+
 ```{r}
 # Example system: A * x = b
 A <- matrix(c(3, 1, 2, 2), nrow = 2)
@@ -282,8 +311,10 @@ print(x)
 ## Eigenvalues and Eigenvectors
 
 ### Calculating Eigenvalues and Eigenvectors
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 eigenvalues, eigenvectors = np.linalg.eig(A)
 
@@ -294,6 +325,7 @@ print(eigenvectors)
 ```
 
 ## R
+
 ```{r}
 eigen_decomp <- eigen(A)
 eigenvalues <- eigen_decomp$values
@@ -309,8 +341,10 @@ print(eigenvectors)
 ## Singular Value Decomposition (SVD)
 
 ### Understanding SVD
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 U, S, Vt = np.linalg.svd(A)
 print("U:\n", U)
@@ -319,6 +353,7 @@ print("Vt:\n", Vt)
 ```
 
 ## R
+
 ```{r}
 svd_decomp <- svd(A)
 U <- svd_decomp$u
@@ -337,8 +372,10 @@ print(Vt)
 ## Principal Component Analysis (PCA)
 
 ### Applying PCA for Dimensionality Reduction
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 from sklearn.decomposition import PCA
 
@@ -352,6 +389,7 @@ print("Reduced Data:\n", X_reduced)
 ```
 
 ## R
+
 ```{r}
 # Example data: 3-dimensional points
 X <- matrix(c(1, 2, 3, 4, 5, 6, 7, 8, 9), nrow = 3, byrow = TRUE)
@@ -368,8 +406,10 @@ print(X_reduced)
 ## Linear Transformations and Projections
 
 ### Visualizing Linear Transformations
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 # Define a transformation matrix
 T = np.array([[2, 0], [0, 0.5]])
@@ -391,6 +431,7 @@ plt.show()
 ```
 
 ## R
+
 ```{r}
 # Define a transformation matrix
 T <- matrix(c(2, 0, 0, 0.5), nrow = 2)
@@ -418,8 +459,10 @@ ggplot(df, aes(x = x, y = y, color = type)) +
 ### Machine Learning
 
 #### Linear Regression
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 from sklearn.linear_model import LinearRegression
 
@@ -438,6 +481,7 @@ print("Predictions:", predictions)
 ```
 
 ## R
+
 ```{r}
 # Sample data
 X <- cbind(1, c(1, 2, 3, 4, 5))  # Adding intercept term
@@ -457,10 +501,14 @@ print(predictions)
 ## Advanced Topics (Optional)
 
 ### Matrix Factorizations
+
 #### LU Decomposition
+
 #### QR Decomposition
-:::{.panel-tabset group="language"}
+
+::: {.panel-tabset group="language"}
 ## Python
+
 ```{python}
 # LU Decomposition
 P, L, U = linalg.lu(A)
@@ -503,4 +551,5 @@ print(R)
 :::
 
 ## References
-1. Mathematics for Machine Learning, Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong, Cambridge University Press, 2020.
+
+1.  Mathematics for Machine Learning, Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong, Cambridge University Press, 2020.

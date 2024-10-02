@@ -1,0 +1,77 @@
+---
+title: "Generative AI tools for Researchers"
+author: "Dr. Alaa Alghwiri"
+date: "2024-10-02"
+categories: [Generative AI]
+image: "genAI.jpeg"
+---
+
+Ever wondered what Generative AI tool to use for your research! What are the differences between the many tools that we today have out there! Which is credible for your research! And which one works well for your budget! In this blog, I will be addressing all these questions by comparing Perplexity, Scispace, Consensus, and Elicit.
+
++----------------+-----------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| Tool Name      | Free Version Services                                           | Paid Version Services                                                                            |
++================+=================================================================+==================================================================================================+
+| **Perplexity** | \- Unlimited Quick searches                                     | \- Unlimited Quick searches                                                                      |
+|                |                                                                 |                                                                                                  |
+| (\$20/Month)   | \- 5 Pro Searches per day                                       | -300+ Pro searches per day                                                                       |
+|                |                                                                 |                                                                                                  |
+| Per Person     | \- Standard Perplexity AI Model optimized for speed and quality | -Select your preferred AI Model. Choose from GPT-4o, Claude-3, Sonar Large (LLama 3.1), and more |
+|                |                                                                 |                                                                                                  |
+|                | \- Create a profile to personalize your answers                 | -Upload and analyze unlimited files                                                              |
+|                |                                                                 |                                                                                                  |
+|                |                                                                 | -Visualize answers using Playground AI, DALL-E, SDXL, and more                                   |
+|                |                                                                 |                                                                                                  |
+|                |                                                                 | -Get \$5/month in API credits                                                                    |
++----------------+-----------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| **SciSpace**   | \- Limited AI words in Writer                                   | \- Unlimited AI words in Writer                                                                  |
+|                |                                                                 |                                                                                                  |
+| (\$12/Month)   | \- Limited Chats with papers and PDFs                           | \- Unlimited Chats with papers and PDFs                                                          |
+|                |                                                                 |                                                                                                  |
+| Per Person     | \- Limited Literature Review searches                           | \- Unlimited Literature Review searches                                                          |
+|                |                                                                 |                                                                                                  |
+|                | \- Standard Model Access only                                   | \- High-Quality Model Access                                                                     |
+|                |                                                                 |                                                                                                  |
+|                | \- Limited Paraphraser outputs                                  | \- Unlimited Paraphraser outputs                                                                 |
+|                |                                                                 |                                                                                                  |
+|                | \- Limited AI powered notebooks                                 | \- Unlimited AI powered notebooks                                                                |
+|                |                                                                 |                                                                                                  |
+|                | \- Limited Paper summaries                                      | \- Unlimited Paper summaries                                                                     |
+|                |                                                                 |                                                                                                  |
+|                | \- Add 5 columns in literature review                           | \- Add all 50 columns in Literature Review                                                       |
+|                |                                                                 |                                                                                                  |
+|                | \- Limited Citation Generations                                 | \- Unlimited Citation Generations                                                                |
+|                |                                                                 |                                                                                                  |
+|                | \- Limited Concept searches                                     | \- Unlimited Concept searches                                                                    |
+|                |                                                                 |                                                                                                  |
+|                |                                                                 | \- Export to RIS, CSV, BIB, Excel, XML                                                           |
+|                |                                                                 |                                                                                                  |
+|                |                                                                 | \- Customise Chat settings                                                                       |
+|                |                                                                 |                                                                                                  |
+|                |                                                                 | \- Unlimited AI Detections                                                                       |
++----------------+-----------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| **Concensus**  |                                                                 | \- Unlimited GPT-4 Summaries                                                                     |
+|                |                                                                 |                                                                                                  |
+| (\$8.99/Month) |                                                                 | \- Unlimited Consensus Meters                                                                    |
+|                |                                                                 |                                                                                                  |
+| Per Person     |                                                                 | \- Unlimited Study Snapshots                                                                     |
+|                |                                                                 |                                                                                                  |
+|                |                                                                 | \- Unlimited Copilot                                                                             |
+|                |                                                                 |                                                                                                  |
+|                |                                                                 | \- Bookmarks and Lists                                                                           |
++----------------+-----------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| **Elicit**     | \- Unlimited search across more than 125 million papers         | Everything in Basic and...                                                                       |
+|                |                                                                 |                                                                                                  |
+| (\$12/Month)   | \- Unlimited summaries of 4 papers at once                      | \- Unlimited summaries of 8 papers at once                                                       |
+|                |                                                                 |                                                                                                  |
+| Per Person     | \- Unlimited chat with 4 papers at once                         | \- Unlimited chat with 8 full-text papers at once                                                |
+|                |                                                                 |                                                                                                  |
+|                | \- Extract data from 10 uploaded PDFs per month                 | \- Export to RIS, CSV, BIB                                                                       |
+|                |                                                                 |                                                                                                  |
+|                | \- Add 2 columns to your tables at a time                       | \- Extract data from 25 uploaded PDFs per month                                                  |
+|                |                                                                 |                                                                                                  |
+|                | \- View sources for answers                                     | \- Add 5 columns to your tables at a time                                                        |
+|                |                                                                 |                                                                                                  |
+|                | \- Import from Zotero                                           | \- 1 high-accuracy column per table                                                              |
+|                |                                                                 |                                                                                                  |
+|                |                                                                 | \- Extract data from tables inside research papers                                               |
++----------------+-----------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
