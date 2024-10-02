@@ -3,7 +3,7 @@ title: "\"In progress\"- Using Ecological Momentary Assessment (EMA) to Examine 
 author: "Alaa Alghwiri"
 date: "2024-10-15"
 categories: [Dialysis Symptoms]
-image: "fatigue.jpg"
+image: "post_dial_fatigue.jpeg"
 ---
 
 -   **Background**: Patients with ESKD have a high symptom burden and many report an acute exacerbation of symptoms immediately following hemodialysis (HD). While post-dialysis fatigue has been studied, very few studies have used ecological momentary assessment (EMA) to examine post-HD symptom experiences.
