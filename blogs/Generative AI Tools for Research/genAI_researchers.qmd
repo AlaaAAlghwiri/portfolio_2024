@@ -26,8 +26,6 @@ format:
     linkcolor: blue
 ---
 
-Ever wondered which generative AI tool to use for your research tasks, such as searching, summarizing, and reviewing scientific literature? What criteria should you employ to select the one that best fits your needs? Which tool addresses the concerns that matter to you? Additionally, what are the monthly subscription costs for individuals if you choose to subscribe to the paid version of your tool of interest?
-
 In this blog, I will delve into four prominent GenAI tools that utilize Retrieval-Augmented Generation (RAG): **Elicit**, **Consensus**, **SciSpace**, and **Perplexity**. We'll explore their features, the databases they employ, and the key differences that set them apart.
 
 ![](logos.png){fig-align="center" width="473"}
@@ -40,42 +38,44 @@ Using AI tools like GenAI in our daily tasks these days is inevitable. However, 
 
 ### **1. Elicit**
 
-"Elicit is an AI research assistant. It uses generative AI and language models to automate research tasks. Currently, Elicit focused on **finding and analyzing academic papers**".
+"Elicit is an AI research assistant that uses generative AI and language models to automate research tasks. Currently, Elicit focused on **finding and analyzing academic papers**".
 
 **Features:**
 
--   **Research Assistance:** Elicit acts as an AI research assistant, helping users find relevant academic papers based on queries.
--   **Literature Review Automation:** It streamlines the literature review process by summarizing findings and extracting key information from papers.
+-   Elicit acts as an AI research assistant, helping users find relevant academic papers based on queries.
+-   It streamlines the literature review process by summarizing findings and extracting key information from papers.
 
 **Database Used:**
 
--   **Semantic Scholar Corpus:** Elicit leverages the **Semantic Scholar** database, which comprises over 200 million academic papers across various disciplines. [Elicit's Source for Papers](https://support.elicit.com/en/articles/553025)
+-   Elicit leverages the **Semantic Scholar** database, which comprises over 200 million academic papers across various disciplines. [Elicit's Source for Papers](https://support.elicit.com/en/articles/553025)
 
 ### **2. Consensus**
 
-"Consensus searches through a corpus of 200M research papers and cover all types of scientific research everything from Astronomy, to Neuroscience, Statistics, Data Science, Archaeology, Nutrition, Electrical Engineering, and much more".
+"Consensus searches through a corpus of 200 million research papers and cover all types of scientific research everything from Astronomy, to Neuroscience, Statistics, Data Science, Archaeology, Nutrition, Electrical Engineering, and much more".
 
 **Features:**
 
--   **AI-Powered Search Engine:** Consensus allows users to query scientific literature and get aggregated answers.
--   **Evidence Summarization:** It summarizes findings from multiple papers to present consensus or differing viewpoints.
--   **Claim Verification:** Users can verify scientific claims by checking the supporting evidence from peer-reviewed articles.
+-  Consensus allows users to query scientific literature and get aggregated answers.
+-  It summarizes findings from multiple papers to present consensus or differing viewpoints.
+-  Users can verify scientific claims by checking the supporting evidence from peer-reviewed articles.
 
 **Database Used:**
 
--   **Peer-Reviewed Journals:** Consensus primarily taps into databases containing peer-reviewed scientific literature to ensure credible sources (**Semantic Scholar**). [What Does Consensus Search Over](https://consensus.app/home/blog/welcome-to-consensus/#:~:text=The%20current%20source%20material%20used,across%20all%20domains%20of%20science.)
+-  Consensus primarily taps into databases containing peer-reviewed scientific literature to ensure credible sources (**Semantic Scholar**). [What Does Consensus Search Over](https://consensus.app/home/blog/welcome-to-consensus/#:~:text=The%20current%20source%20material%20used,across%20all%20domains%20of%20science.)
 
 ### **3. SciSpace**
 
+"SciSpace is a valuable tool for interacting with PDFs and streamlining the literature review process. It enables users to explore over 200 million papers, upload their own PDFs, highlight specific text, ask questions, and receive detailed explanations and summaries".
+
 **Features:**
 
--   **AI Co-Pilot for Papers:** SciSpace assists in understanding and interpreting scientific papers.
--   **Explanation of Complex Terms:** It can explain jargon, mathematical equations, and complex concepts within papers.
--   **Document Navigation:** Offers features like summarization, annotation, and cross-referencing within documents.
+-   SciSpace assists in understanding and interpreting scientific papers.
+-   It can explain jargon, mathematical equations, and complex concepts within papers.
+-   Offers features like summarization, annotation, and cross-referencing within documents.
 
 **Database Used:**
 
--   **Extensive Academic Repository:** SciSpace accesses a wide range of academic papers and publications, though specific database partnerships are less publicly detailed.
+-   SciSpace accesses a wide range of academic papers and publications, though specific database partnerships are less publicly detailed.
 
 ### **4. Perplexity**
 
@@ -83,13 +83,13 @@ Using AI tools like GenAI in our daily tasks these days is inevitable. However, 
 
 **Features:**
 
--   **Answer Engine:** Perplexity provides direct answers to user queries using AI and internet resources.
--   **Source Attribution:** It cites sources, allowing users to verify information.
--   **Real-Time Information:** Accesses up-to-date information, making it suitable for current events and recent data.
+-   Perplexity provides direct answers to user queries using AI and internet resources.
+-   It cites sources, allowing users to verify information.
+-   Accesses up-to-date information, making it suitable for current events and recent data.
 
 **Database Used:**
 
--   **Internet and Indexed Websites:** Perplexity crawls the web gathering information from authoritative sources like articles, websites, and journals.
+-   Perplexity crawls the web gathering information from authoritative sources like articles, websites, and journals.
 
 ### **Comparative Analysis**
 
@@ -186,22 +186,23 @@ Using AI tools like GenAI in our daily tasks these days is inevitable. However, 
 
 ### **Recommendations and Limitations of GenAI Tools**
 
-1.  **Risk of Misinformation (Hallucinations)**: Generative AI tools can sometimes produce incorrect or fabricated information, which may be difficult to verify, especially within specialized scientific fields.
-2.  **Reproducibility Concerns**: Due to stochastic processes inherent in the models, identical inputs do not always yield consistent outputs.
-3.  **Prompt Sensitivity**: The quality of the generated outputs is highly dependent on the structure of the prompts; minor changes in phrasing can lead to significantly different or inaccurate results.
-4.  **Bias Toward Generalizations**: Generative AI models may oversimplify complex scientific concepts, limiting the depth and nuance of analyses.
-5.  **Quality and Accessibility**: Paid versions of commercial generative AI tools often provide more accurate and detailed results compared to their free versions.
-6.  **Ethical and Privacy Considerations**: The use of generative AI on proprietary or sensitive information must account for data privacy, copyright laws, and ethical usage guidelines.
+-  **Risk of Misinformation (Hallucinations)**: Generative AI tools can sometimes produce incorrect or fabricated information, which may be difficult to verify, especially within specialized scientific fields.
+-  **Reproducibility Concerns**: Due to stochastic processes inherent in the models, identical inputs do not always yield consistent outputs.
+-  **Prompt Sensitivity**: The quality of the generated outputs is highly dependent on the structure of the prompts; minor changes in phrasing can lead to significantly different or inaccurate results.
+-  **Bias Toward Generalizations**: Generative AI models may oversimplify complex scientific concepts, limiting the depth and nuance of analyses.
+-  **Quality and Accessibility**: Paid versions of commercial generative AI tools often provide more accurate and detailed results compared to their free versions.
+-  **Ethical and Privacy Considerations**: The use of generative AI on proprietary or sensitive information must account for data privacy, copyright laws, and ethical usage guidelines.
 
 ### **Conclusion**
 
-The integration of RAG in GenAI tools like Elicit, Consensus, SciSpace, and Perplexity marks a significant stride in information accessibility and comprehension. Each tool brings unique features tailored to different user needs—from academic research assistance to general knowledge queries. Understanding their functionalities and databases can help users select the most appropriate tool for their specific requirements.
+The integration of RAG in GenAI tools like Elicit, Consensus, SciSpace, and Perplexity marks a significant step in information accessibility and comprehension. Each tool brings unique features tailored to different user needs—from academic research assistance to general knowledge queries. Understanding their functionalities and databases can help users select the most appropriate tool for their specific requirements. While RAG-enabled GenAI tools provide powerful capabilities, users should remain cautious and critically evaluate the outputs, especially when used for research or decision-making in specialized fields.
 
 ### **References**
 
 -   Elicit: [elicit.org](https://elicit.org)
 -   Consensus: [consensus.app](https://consensus.app)
 -   SciSpace: [scispace.com](https://www.scispace.com)
+- [SciSpace Rundown](https://supertools.therundown.ai/content/scispace?utm_source=www.therundown.ai&utm_medium=newsletter&utm_campaign=the-next-era-for-microsoft-copilot&_bhlid=5374e57c3aa9ea2e22d571eabe32f5972cd45392)
 -   Perplexity: [perplexity.ai](https://www.perplexity.ai)
 -   What is Perplexity: [Perplexity](https://www.perplexity.ai/hub/faq/what-is-perplexity)
 -   AI Powered Research Webinar:[AI-Powered Research: Leveraging AI Tools for Searching, Summarizing, and Reviewing Scientific Literature](https://pitt-my.sharepoint.com/:p:/g/personal/ansuman_pitt_edu/Ed2FJysdHCJKuWxLy5mzbvkBeBhg3iJPvAVliLN1F37QbQ?e=UzJT2R&previoussessionid=521c1622-4e88-8995-1d6f-145397a5b059)
