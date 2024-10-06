@@ -26,15 +26,26 @@ format:
     linkcolor: blue
 ---
 
+
+
+
+
+
+
+
+
+
+
 Ever wondered which generative AI tool to use for your research tasks, such as searching, summarizing, and reviewing scientific literature? What criteria should you employ to select the one that best fits your needs? Which tool addresses the concerns that matter to you? Additionally, what are the monthly subscription costs for individuals if you choose to subscribe to the paid version of your tool of interest?
 
 In this blog, I will delve into four prominent GenAI tools that utilize Retrieval-Augmented Generation (RAG): **Elicit**, **Consensus**, **SciSpace**, and **Perplexity**. We'll explore their features, the databases they employ, and the key differences that set them apart.
 
-![](logos.png){fig-align="center" width="473"}
+![](GenAI.jpeg){fig-align="center" width="500" height="300"}
 
 ### **Introduction**
 
 Using AI tools like GenAI in our daily tasks these days is inevitable. However, this also raises concerns regarding the accuracy and reliability of their outputs. GenAI tools can produce outputs that are plausible yet factually incorrect or misleading- a phenomenon knows as "**Hallucination**". To address this issue, Retrieval-Augmented Generation (RAG), which combines large language models with external knowledge bases to generate more accurate and context-aware responses has been integrated.
+
 
 ### **GenAI Tools for Researchers**
 
