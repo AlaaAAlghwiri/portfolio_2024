@@ -30,14 +30,6 @@ format:
 
 
 
-
-
-
-
-
-
-
-
 In this blog, I will delve into four prominent GenAI tools that utilize Retrieval-Augmented Generation (RAG): **Elicit**, **Consensus**, **SciSpace**, and **Perplexity**. We'll explore their features, the databases they employ, and the key differences that set them apart.
 
 ![](logos.png){fig-align="center" width="473"}
