@@ -2,7 +2,7 @@
 
 ### Journals
 
-- Melanie R Weltman, Linda-Marie U Lavenburg, Zhuoheng Han, **Alaa A Alghwiri**, Mitra Mosslemi, Bruce L Rollman, Gary S Fischer, Thomas D Nolin, Jonathan G Yabes, Manisha Jhamb.[Population Health Management and Guideline-Concordant Care in CKD: A Secondary Analysis of K-CHAMP](https://journals.lww.com/jasn/abstract/9900/population_health_management_and.471.aspx). Journal of the American Society of Nephrology, November 2024. DOI: 10.1681/ASN.0000000544
+-   Melanie R Weltman, Linda-Marie U Lavenburg, Zhuoheng Han, **Alaa A Alghwiri**, Mitra Mosslemi, Bruce L Rollman, Gary S Fischer, Thomas D Nolin, Jonathan G Yabes, Manisha Jhamb.[Population Health Management and Guideline-Concordant Care in CKD: A Secondary Analysis of K-CHAMP](https://journals.lww.com/jasn/abstract/9900/population_health_management_and.471.aspx). Journal of the American Society of Nephrology, November 2024. DOI: 10.1681/ASN.0000000544
 
 -   Cramer J Kallem, **Alaa A Alghwiri**, Jonathan Yabes, Sarah Erickson, Zhuoheng Han, Maria-Eleni Roumelioti, Jennifer L Steel, Manisha Jhamb, Mark Unruh. [Diurnal and Daily Symptom Variation in Patients with End-Stage Kidney Disease: An Ecological Momentary Assessment Study](https://journals.lww.com/cjasn/pages/articleviewer.aspx?year=9900&issue=00000&article=00425&type=Abstract). Clinical Journal of the American Society of Nephrology, July 16, 2024. DOI: 10.2215/CJN.0000000000000524
 
@@ -14,9 +14,6 @@
 
 -   Alghwiri, A. A., Almomani, F., **Alghwiri, A. A.**, & Whitney, S. L. (2021). [Predictors of sleep quality among university students: the use of advanced machine learning techniques](https://link.springer.com/article/10.1007/s11325-020-02150-w). Sleep and Breathing, 25, 1119-1126
 
--   Weltman, M. R., Han, Z., **Alghwiri, A. A.**, Yabes, J., Lavenburg, L. M. U., Nolin, T. D., & Jhamb, M. (2023). [Use of Guideline-Recommended Medication Therapy in a High-Risk CKD Population in the Kidney CHAMP Trial](https://journals.lww.com/jasn/citation/2023/11001/use_of_guideline_recommended_medication_therapy_in.2849.aspx) : SA-PO295. Journal of the American Society of Nephrology, 34(11S), 804-805
-
--   MOSSLEMI, M., WELTMAN, M., LAVENBURG, L., MARIE, U., **ALGHWIRI, A.**, YABES, J., ... & JHAMB, M. (2024). 399-P: [399-P: Association of Social Determinants of Health with Initiation of Novel Glucose-Lowering Drugs in Patients with Diabetes](https://diabetesjournals.org/diabetes/article/73/Supplement_1/399-P/156607). Diabetes, 73(Supplement_1)
 
 ### Published abstracts and proceedings:
 
