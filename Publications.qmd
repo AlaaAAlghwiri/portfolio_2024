@@ -14,8 +14,10 @@
 
 -   Alghwiri, A. A., Almomani, F., **Alghwiri, A. A.**, & Whitney, S. L. (2021). [Predictors of sleep quality among university students: the use of advanced machine learning techniques](https://link.springer.com/article/10.1007/s11325-020-02150-w). Sleep and Breathing, 25, 1119-1126
 
-
 ### Published abstracts and proceedings:
+
+-   M.R. Weltman, A.A. Alghwiri, Z. Han, L.U. Lavenburg, T.D. Nolin, J.G. Yabes,, Y. Chen, M. Jhamb. **Prediction of medication therapy problems in patients with moderate- to high-risk chronic kidney disease**: American Society of Nephrology (ASN) 2024
+-   Linda-Marie Lavenburg, Zhuoheng Han, Mitra Mosslemi, Alaa Alghwiri, Thomas Nolin, Melanie Weltman, Jonathan Yabes, Manisha Jhamb. **Impact of Population Health Management to Modify Disparate Use of SGLT2i/GLP1Ras**: American Society of Nephrology (ASN) 2024
 
 -   Kallem CJ, Roumelioti M, **Alghwiri AA**, Yabes JG, Jhamb M, Unruh M. **Day-to-day and diurnal variations in patient-reported symptoms among patients on dialysis**. Poster presentation at: National Kidney Foundation 2024 Spring Clinical Meetings. May 14-18, 2024; Long Beach, CA. Abstract ID: 4454
 
