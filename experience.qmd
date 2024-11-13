@@ -27,9 +27,9 @@
 
 **Part Time \| January 2020 - June 2022**
 
-*   Led a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application for real-time monitoring within energy plants. Successfully secured $1,060,000 in funding in the pre-seed stage. 
-    +  Oversaw the entire development lifecycle from conceptualization to execution, ensuring seamless integration and optimal performance.
-*   Led the data science team in developing an energy generation forecasting tool using advanced statistical analysis and machine learning algorithms.
+-   Led a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application for real-time monitoring within energy plants. Successfully secured \$1,060,000 in funding in the pre-seed stage.
+    -   Oversaw the entire development lifecycle from conceptualization to execution, ensuring seamless integration and optimal performance.
+-   Led the data science team in developing an energy generation forecasting tool using advanced statistical analysis and machine learning algorithms.
 
 ## Teaching Experience
 

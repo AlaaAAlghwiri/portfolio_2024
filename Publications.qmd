@@ -2,17 +2,11 @@
 
 ### Journals
 
-- Kallem, Cramer J.; **Alghwiri, Alaa A.**; Yabes, Jonathan; Erickson, Sarah; Han, Zhuoheng;
-Roumelioti, Maria-Eleni; Steel, Jennifer L.; Jhamb, Manisha,a; Unruh, Mark. [Diurnal and
-Daily Symptom Variation in Patients with End-Stage Kidney Disease: An Ecological
-Momentary Assessment Study](https://journals.lww.com/cjasn/pages/articleviewer.aspx?year=9900&issue=00000&article=00425&type=Abstract). Clinical Journal of the American Society of Nephrology,
-July 16, 2024. DOI: 10.2215/CJN.0000000000000524
+- Melanie R Weltman, Linda-Marie U Lavenburg, Zhuoheng Han, **Alaa A Alghwiri**, Mitra Mosslemi, Bruce L Rollman, Gary S Fischer, Thomas D Nolin, Jonathan G Yabes, Manisha Jhamb.[Population Health Management and Guideline-Concordant Care in CKD: A Secondary Analysis of K-CHAMP](https://journals.lww.com/jasn/abstract/9900/population_health_management_and.471.aspx). Journal of the American Society of Nephrology, November 2024. DOI: 10.1681/ASN.0000000544
 
-- Kallem, Cramer J.; **Alghwiri, Alaa A.**; Yabes, Jonathan G.; Roumelioti, Maria-Eleni;
-Erickson, Sarah; Rollman, Bruce L.; Weisbord, Steven; Unruh, Mark; Vodovotz, Yoram;
-Jhamb, Manisha,a; Steel, Jennifer L. [Association of Symptoms and Collaborative Care
-Intervention (TĀCcare) with Systemic Inflammation Biomarkers in End-Stage
-Kidney Disease](https://journals.lww.com/kidney360/abstract/9900/association_of_symptoms_and_collaborative_care.431.aspx). Kidney360, July 16, 2024. DOI: 10.34067/KID.0000000000000512
+-   Cramer J Kallem, **Alaa A Alghwiri**, Jonathan Yabes, Sarah Erickson, Zhuoheng Han, Maria-Eleni Roumelioti, Jennifer L Steel, Manisha Jhamb, Mark Unruh. [Diurnal and Daily Symptom Variation in Patients with End-Stage Kidney Disease: An Ecological Momentary Assessment Study](https://journals.lww.com/cjasn/pages/articleviewer.aspx?year=9900&issue=00000&article=00425&type=Abstract). Clinical Journal of the American Society of Nephrology, July 16, 2024. DOI: 10.2215/CJN.0000000000000524
+
+-   Cramer J Kallem, Alaa A Alghwiri, Jonathan G Yabes, Maria-Eleni Roumelioti, Sarah Erickson, Bruce L Rollman, Steven Weisbord, Mark Unruh, Yoram Vodovotz, Manisha Jhamb, Jennifer L Steel. [Association of Symptoms and Collaborative Care Intervention (TĀCcare) with Systemic Inflammation Biomarkers in End-Stage Kidney Disease](https://journals.lww.com/kidney360/abstract/9900/association_of_symptoms_and_collaborative_care.431.aspx). Kidney360, July 16, 2024. DOI: 10.34067/KID.0000000000000512
 
 -   Jhamb, M., Weltman, M. R., Devaraj, S. M., Lavenburg, L. M. U., Han, Z., **Alghwiri, A. A.**, ... & Yabes, J. G. (2024). [Electronic Health Record Population Health Management for Chronic Kidney Disease Care: A Cluster Randomized Clinical Trial](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2817606). JAMA Internal Medicine.
 

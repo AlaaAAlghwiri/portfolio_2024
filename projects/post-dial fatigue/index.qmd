@@ -1,7 +1,7 @@
 ---
 title: "\"In progress\"- Using Ecological Momentary Assessment (EMA) to Examine Post-Hemodialysis Symptom Experiences"
 author: "Alaa Alghwiri"
-date: "2024-10-15"
+date: "2024-12-15"
 categories: [Dialysis Symptoms]
 image: "post_dial_fatigue.jpeg"
 ---
