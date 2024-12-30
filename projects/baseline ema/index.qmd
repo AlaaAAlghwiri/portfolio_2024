@@ -14,4 +14,4 @@ image: "postdialfatigue.jpg"
 
 -   **Conclusions**: Patients with ESKD demonstrate diurnal variation in symptoms and greater symptom burden on HD days compared to non-HD days, with the most extreme differences in symptom severity occurring in the early afternoon.
 
-[Read more](https://journals.lww.com/cjasn/pages/articleviewer.aspx?year=9900&issue=00000&article=00425&type=Abstract)
+[Read more](https://journals.lww.com/cjasn/fulltext/2024/10000/diurnal_and_daily_symptom_variation_in_patients.10.aspx)
