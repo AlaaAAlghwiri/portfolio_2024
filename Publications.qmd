@@ -4,7 +4,7 @@
 
 -   Melanie R Weltman, Linda-Marie U Lavenburg, Zhuoheng Han, **Alaa A Alghwiri**, Mitra Mosslemi, Bruce L Rollman, Gary S Fischer, Thomas D Nolin, Jonathan G Yabes, Manisha Jhamb.[Population Health Management and Guideline-Concordant Care in CKD: A Secondary Analysis of K-CHAMP](https://journals.lww.com/jasn/abstract/9900/population_health_management_and.471.aspx). Journal of the American Society of Nephrology, November 2024. DOI: 10.1681/ASN.0000000544
 
--   Cramer J Kallem, **Alaa A Alghwiri**, Jonathan Yabes, Sarah Erickson, Zhuoheng Han, Maria-Eleni Roumelioti, Jennifer L Steel, Manisha Jhamb, Mark Unruh. [Diurnal and Daily Symptom Variation in Patients with End-Stage Kidney Disease: An Ecological Momentary Assessment Study](https://journals.lww.com/cjasn/pages/articleviewer.aspx?year=9900&issue=00000&article=00425&type=Abstract). Clinical Journal of the American Society of Nephrology, July 16, 2024. DOI: 10.2215/CJN.0000000000000524
+-   Cramer J Kallem, **Alaa A Alghwiri**, Jonathan Yabes, Sarah Erickson, Zhuoheng Han, Maria-Eleni Roumelioti, Jennifer L Steel, Manisha Jhamb, Mark Unruh. [Diurnal and Daily Symptom Variation in Patients with End-Stage Kidney Disease: An Ecological Momentary Assessment Study](https://journals.lww.com/cjasn/fulltext/2024/10000/diurnal_and_daily_symptom_variation_in_patients.10.aspx). Clinical Journal of the American Society of Nephrology, July 16, 2024. DOI: 10.2215/CJN.0000000000000524
 
 -   Cramer J Kallem, **Alaa A Alghwiri**, Jonathan G Yabes, Maria-Eleni Roumelioti, Sarah Erickson, Bruce L Rollman, Steven Weisbord, Mark Unruh, Yoram Vodovotz, Manisha Jhamb, Jennifer L Steel. [Association of Symptoms and Collaborative Care Intervention (TĀCcare) with Systemic Inflammation Biomarkers in End-Stage Kidney Disease](https://journals.lww.com/kidney360/abstract/9900/association_of_symptoms_and_collaborative_care.431.aspx). Kidney360, July 16, 2024. DOI: 10.34067/KID.0000000000000512
 
@@ -17,6 +17,7 @@
 ### Published abstracts and proceedings:
 
 -   M.R. Weltman, **A.A. Alghwiri**, Z. Han, L.U. Lavenburg, T.D. Nolin, J.G. Yabes,, Y. Chen, M. Jhamb. **Prediction of medication therapy problems in patients with moderate- to high-risk chronic kidney disease**: American Society of Nephrology (ASN) 2024
+
 -   Linda-Marie Lavenburg, Zhuoheng Han, Mitra Mosslemi, **Alaa Alghwiri**, Thomas Nolin, Melanie Weltman, Jonathan Yabes, Manisha Jhamb. **Impact of Population Health Management to Modify Disparate Use of SGLT2i/GLP1Ras**: American Society of Nephrology (ASN) 2024
 
 -   Kallem CJ, Roumelioti M, **Alghwiri AA**, Yabes JG, Jhamb M, Unruh M. **Day-to-day and diurnal variations in patient-reported symptoms among patients on dialysis**. Poster presentation at: National Kidney Foundation 2024 Spring Clinical Meetings. May 14-18, 2024; Long Beach, CA. Abstract ID: 4454
