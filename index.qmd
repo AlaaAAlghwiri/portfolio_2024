@@ -20,7 +20,7 @@ about:
 
 # Biography
 
-Highly skilled Data Scientist with a Ph.D. in Industrial Engineering and 8+ years of impactful experience. Proven expertise across the entire data science life cycle, from data acquisition to solutions deployment using both R and Python. Strong background in cutting-edge machine learning algorithms and statistical modeling at scale. Applied knowledge in Healthcare, Energy, Higher Education, and Transportation industries. Entrepreneur, teacher, researcher, effective communicator, and collaborative team player.
+Results-driven Data Scientist with a Ph.D. in Industrial Engineering and around a decade of impactful experience delivering data-driven insights and innovative solutions. Proven expertise across the entire data science life cycle, from data acquisition to solutions deployment using both R and Python. Strong background in cutting-edge machine and deep learning algorithms and statistical modeling at scale. Applied expertise in Healthcare, Energy, Higher Education, and Transportation industries, leveraging data science for real-world impact. Entrepreneur, teacher, researcher, effective communicator, and collaborative team player.
 
 # Education
 
