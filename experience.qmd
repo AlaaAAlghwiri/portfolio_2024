@@ -1,8 +1,8 @@
 ## Professional Experience
 
-### Senior Data Scientist \| University of Pittsburgh, Center for Population Health Management
+### Senior Data Scientist at University of Pittsburgh- Center for Population Health Management
 
-**Full Time \| July 2022 - Current**
+**Full Time, July 2022 - Current**
 
 -   Extensive experience utilizing Electronic Health Records (EHR) for analysis, demonstrating a deep familiarity with preparing and leveraging EHR data for both statistical and predictive purposes
 -   Utilized causal forest algorithms to evaluate heterogeneity in treatment effects, allowing for a nuanced understanding of how different patient subgroups respond to various interventions
@@ -11,9 +11,9 @@
 -   Utilized mixed-effect models to analyze the impact of various factors on pain, fatigue, and depression, providing valuable insights into effective intervention strategies.
 -   Designed and implemented a Tkinter application in Python to map addresses into the Area Deprivation Index (ADI), facilitating targeted resource allocation for underserved communities.
 
-### Data Scientist \| University of Pittsburgh, Office of the Provost
+### Data Scientist at University of Pittsburgh-Office of the Provost
 
-**Full Time \| October 2017 - June 2022**
+**Full Time, October 2017 - June 2022**
 
 -   Utilized data analytics tools to automate the generation of yearly/ad-hoc insights in static and dynamic formats, integrating data from multiple resources.
 -   Improved University of Pittsburgh's US News Ranking by 4 steps (between 2020 and 2021) using Machine Learning techniques including SVM, Random Forest, and Gradient Boosting.
@@ -23,9 +23,9 @@
 
 ## Entrepreneurial Experience
 
-### Co-Founder and CTO \| Algebra Intelligence
+### Co-Founder and CTO at Algebra Intelligence
 
-**Part Time \| January 2020 - June 2022**
+**Part Time, January 2020 - June 2022**
 
 -   Led a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application for real-time monitoring within energy plants. Successfully secured \$1,060,000 in funding in the pre-seed stage.
     -   Oversaw the entire development lifecycle from conceptualization to execution, ensuring seamless integration and optimal performance.
@@ -33,17 +33,17 @@
 
 ## Teaching Experience
 
-### Adjunct Professor\| TrineOnline University
+### Adjunct Professor at TrineOnline University
 
-**Part Time \| June 2024 - Current**
+**Part Time, June 2024 - Current**
 
 -   Deliver course materials focused on statistical methods and analysis techniques pertinent to IT research. Guide students in applying statistical tools to real-world IT problems and projects.
 -   Teach fundamental and advanced concepts of computer science using Python. Create hands-on projects to reinforce learning and encourage practical application of programming skills.
 -   Instruct students on the principles and practices of data science and big data analytics.
 
-### Data Science Instructor \| Simplilearn
+### Data Science Instructor at Simplilearn
 
-**Part Time \| April 2023 - Current**
+**Part Time, April 2023 - Current**
 
 -   Instructed comprehensive courses on Data Science, covering a spectrum from foundational mathematical and statistical concepts to advanced topics.
 -   Designed and delivered engaging modules on data exploration, visualization techniques, and best practices, fostering a deep understanding among students.
