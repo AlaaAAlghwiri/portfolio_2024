@@ -1,15 +1,23 @@
 ---
-title: "\"In progress\"- Using Ecological Momentary Assessment (EMA) to Examine Post-Hemodialysis Symptom Experiences"
+title: "Using Ecological Momentary Assessment to Redefine Postdialysis Fatigue in Patients with Kidney Failure"
 author: "Alaa Alghwiri"
-date: "2024-12-15"
+date: "2025-02-25"
 categories: [Dialysis Symptoms]
 image: "post_dial_fatigue.jpeg"
 ---
 
--   **Background**: Patients with ESKD have a high symptom burden and many report an acute exacerbation of symptoms immediately following hemodialysis (HD). While post-dialysis fatigue has been studied, very few studies have used ecological momentary assessment (EMA) to examine post-HD symptom experiences.
+**Abstract**
 
--   **Methods**: Participants in the Technology Assisted Collaborative Care (TĀCcare) trial completed an automated telephone-administered version of the Daytime Insomnia Symptom Scale (DISS) at 4 timepoints daily for 7 consecutive days. The DISS yields 4 symptom domain scores: Positive mood (PM), negative mood (NM), alert cognition (AC), and sleepiness/fatigue (SF). Post-HD symptom domain and item-level scores were compared to the corresponding timepoints on non-HD days via mixed models. Linear regression was used to examine the association of increased post-dialysis symptom burden with demographic, psychosocial, and disease-specific sample characteristics. All analyses adjusted for age, race, sex, and Charlson Comorbidity Index.
+**Background**: 
+Patients with kidney failure have a high symptom burden and many report an acute exacerbation of symptoms immediately following in-center hemodialysis (HD). Very few studies have used ecological momentary assessment (EMA) to examine post-HD patient-centered outcomes.
 
--   **Results**: 160 HD patients were enrolled \[mean age=58±14 years, 55% men, 52% White\]. In the post-HD period, patients reported significantly lower PM \[mean difference (MD)= -0.22, 95% CI (-0.29, -0.14), p\<0.001\] and AC \[MD= -0.13, 95% CI (-0.18, -0.08), p\<0.001\] and significantly higher NM \[MD=0.12, 95% CI (0.05, 0.19), p\<0.001\] and SF \[MD=0.51, 95% CI (0.42, 0.61), p\<0.001\] symptoms, compared to non-HD days. There were no significant associations between post-dialysis symptom exacerbation and demographic, psychosocial, or disease-specific characteristics.
+**Methods**: 
+Participants in the Technology Assisted Collaborative Care (TĀCcare) trial completed an automated telephone-administered Daytime Insomnia Symptom Scale (DISS) at 4 time points daily for 7 consecutive days. The DISS yields 4 symptom domain scores: Positive Mood, Negative Mood, Alert Cognition, and Sleepiness/Fatigue. Post-HD symptom domains and item-level scores were compared to similar time points on non-HD days using linear mixed models analyses. Mixed models were also used to explore the association of post-dialysis symptom burden with demographic, psychosocial, hemodialysis treatment, and disease-specific characteristics. All analyses were adjusted for age, race, sex, and Charlson Comorbidity Index
 
--   **Conclusions**: Patients with ESKD tend to experience worsening of both fatigue and mood symptoms after HD treatments. Our findings align with recent critiques that the post-dialysis fatigue label does not fully describe the post-HD symptom burden patients experience. Future studies should utilize EMA to assess a broader range of potential post-HD symptoms.
+**Results**: 
+156 HD patients with available EMA data were evaluated [mean age=58±14 years, 55% men, 51% White]. In the post-HD period, patients reported significantly lower Positive Mood [mean difference (MD)= -0.22, 95% CI (-0.29, -0.14)] and Alert Cognition [MD= -0.13, 95% CI (-0.18, -0.08)] and higher Negative Mood [MD=0.12, 95% CI (0.05, 0.19)] and Sleepiness/Fatigue [MD=0.51, 95% CI (0.42, 0.61)] compared to non-HD days. The mean post-dialysis symptom exacerbation total score was 0.70 ± 1.21, representing an increase of 6% of the maximum scale range. In the post-dialysis period, relative to non-dialysis days, the mean decrease in Positive Mood and Alert Cognition scores equaled 4% and 2% of the maximum scale range respectively; the mean increase in Negative Mood and Sleepiness/Fatigue scores equaled 2% and 9% of the maximum scale range respectively.
+
+**Conclusions**: 
+Patients with kidney failure reported worsening of both fatigue and mood symptoms post- HD.
+
+[Read more](https://journals.lww.com/jasn/pages/articleviewer.aspx?year=9900&issue=00000&article=00570&type=Abstract)
