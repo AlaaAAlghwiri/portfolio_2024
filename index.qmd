@@ -24,6 +24,7 @@ Results-driven Data Scientist with a Ph.D. in Industrial Engineering and around 
 
 # Education
 
--   Ph.D. in Industrial and Systems Engineering, University of Akron, USA, 2017
--   M.Sc. in Industrial and Systems Engineering, University of Akron, USA, 2014
--   B.Sc. in Electro-Mechanical Engineering, Jordan University of Science and Technology, Jordan, 2007
+-   M.Sc. in Health Data Science, University of Pittsburgh, USA, 2024-2026
+-   Ph.D. in Industrial and Systems Engineering, University of Akron, USA, 2017, GPA (3.83/4.0)
+-   M.Sc. in Industrial and Systems Engineering, University of Akron, USA, 2014, GPA (3.91/4.0)
+-   B.Sc. in Electro-Mechanical Engineering, Jordan University of Science and Technology, Jordan, 2007, GPA (Good)
