@@ -6,18 +6,12 @@ categories: [Dialysis Symptoms]
 image: "post_dial_fatigue.jpeg"
 ---
 
-**Abstract**
+**Background**: Patients with kidney failure have a high symptom burden and many report an acute exacerbation of symptoms immediately following in-center hemodialysis (HD). Very few studies have used ecological momentary assessment (EMA) to examine post-HD patient-centered outcomes.
 
-**Background**: 
-Patients with kidney failure have a high symptom burden and many report an acute exacerbation of symptoms immediately following in-center hemodialysis (HD). Very few studies have used ecological momentary assessment (EMA) to examine post-HD patient-centered outcomes.
+**Methods**: Participants in the Technology Assisted Collaborative Care (TĀCcare) trial completed an automated telephone-administered Daytime Insomnia Symptom Scale (DISS) at 4 time points daily for 7 consecutive days. The DISS yields 4 symptom domain scores: Positive Mood, Negative Mood, Alert Cognition, and Sleepiness/Fatigue. Post-HD symptom domains and item-level scores were compared to similar time points on non-HD days using linear mixed models analyses. Mixed models were also used to explore the association of post-dialysis symptom burden with demographic, psychosocial, hemodialysis treatment, and disease-specific characteristics. All analyses were adjusted for age, race, sex, and Charlson Comorbidity Index
 
-**Methods**: 
-Participants in the Technology Assisted Collaborative Care (TĀCcare) trial completed an automated telephone-administered Daytime Insomnia Symptom Scale (DISS) at 4 time points daily for 7 consecutive days. The DISS yields 4 symptom domain scores: Positive Mood, Negative Mood, Alert Cognition, and Sleepiness/Fatigue. Post-HD symptom domains and item-level scores were compared to similar time points on non-HD days using linear mixed models analyses. Mixed models were also used to explore the association of post-dialysis symptom burden with demographic, psychosocial, hemodialysis treatment, and disease-specific characteristics. All analyses were adjusted for age, race, sex, and Charlson Comorbidity Index
+**Results**: 156 HD patients with available EMA data were evaluated \[mean age=58±14 years, 55% men, 51% White\]. In the post-HD period, patients reported significantly lower Positive Mood \[mean difference (MD)= -0.22, 95% CI (-0.29, -0.14)\] and Alert Cognition \[MD= -0.13, 95% CI (-0.18, -0.08)\] and higher Negative Mood \[MD=0.12, 95% CI (0.05, 0.19)\] and Sleepiness/Fatigue \[MD=0.51, 95% CI (0.42, 0.61)\] compared to non-HD days. The mean post-dialysis symptom exacerbation total score was 0.70 ± 1.21, representing an increase of 6% of the maximum scale range. In the post-dialysis period, relative to non-dialysis days, the mean decrease in Positive Mood and Alert Cognition scores equaled 4% and 2% of the maximum scale range respectively; the mean increase in Negative Mood and Sleepiness/Fatigue scores equaled 2% and 9% of the maximum scale range respectively.
 
-**Results**: 
-156 HD patients with available EMA data were evaluated [mean age=58±14 years, 55% men, 51% White]. In the post-HD period, patients reported significantly lower Positive Mood [mean difference (MD)= -0.22, 95% CI (-0.29, -0.14)] and Alert Cognition [MD= -0.13, 95% CI (-0.18, -0.08)] and higher Negative Mood [MD=0.12, 95% CI (0.05, 0.19)] and Sleepiness/Fatigue [MD=0.51, 95% CI (0.42, 0.61)] compared to non-HD days. The mean post-dialysis symptom exacerbation total score was 0.70 ± 1.21, representing an increase of 6% of the maximum scale range. In the post-dialysis period, relative to non-dialysis days, the mean decrease in Positive Mood and Alert Cognition scores equaled 4% and 2% of the maximum scale range respectively; the mean increase in Negative Mood and Sleepiness/Fatigue scores equaled 2% and 9% of the maximum scale range respectively.
-
-**Conclusions**: 
-Patients with kidney failure reported worsening of both fatigue and mood symptoms post- HD.
+**Conclusions**: Patients with kidney failure reported worsening of both fatigue and mood symptoms post- HD.
 
 [Read more](https://journals.lww.com/jasn/pages/articleviewer.aspx?year=9900&issue=00000&article=00570&type=Abstract)
