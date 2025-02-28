@@ -37,9 +37,9 @@
 
 **Part Time, June 2024 - Current**
 
--   Deliver course materials focused on statistical methods and analysis techniques pertinent to IT research. Guide students in applying statistical tools to real-world IT problems and projects.
--   Teach fundamental and advanced concepts of computer science using Python. Create hands-on projects to reinforce learning and encourage practical application of programming skills.
--   Instruct students on the principles and practices of data science and big data analytics.
+-   Delivered course materials focused on statistical methods and analysis techniques pertinent to IT research. Guided students in applying statistical tools to real-world IT problems and projects.
+-   Taught fundamental and advanced concepts of computer science using Python. Created hands-on projects to reinforce learning and encourage practical application of programming skills.
+-   Instructed students on the principles and practices of data science and big data analytics.
 
 ### Data Science Instructor at Simplilearn
 
