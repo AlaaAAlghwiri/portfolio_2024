@@ -2,7 +2,7 @@
 
 ### Journals
 
--   **Alaa A Alghwiri**, Melanie R Weltman, Linda-Marie Lavenburg, Han, Zhuoheng, Thomas D. Nolin, Yi-Fan Chen, Jonathan G. Yabes, Manisha Jhamb. [**Using Machine learning to predict medication therapy problems among patients with chronic kidney disease**](https://karger.com/ajn/article-abstract/doi/10.1159/000546540/929024/Using-Machine-Learning-to-Predict-Medication). American Journal of Nephrology.
+-   **Alaa A Alghwiri**, Melanie R Weltman, Linda-Marie Lavenburg, Han, Zhuoheng, Thomas D. Nolin, Yi-Fan Chen, Jonathan G. Yabes, Manisha Jhamb. [Using Machine learning to predict medication therapy problems among patients with chronic kidney disease](https://karger.com/ajn/article-abstract/doi/10.1159/000546540/929024/Using-Machine-Learning-to-Predict-Medication). American Journal of Nephrology.
 
 -   **Alghwiri, Alaa A.**, Kallem, Cramer J., Yabes, Jonathan, Erickson, Sarah, Han, Zhuoheng, Roumelioti, Maria-Eleni, Steel, Jennifer L., Unruh, Mark, Jhamb, Manisha, [Using Ecological Momentary Assessment to Redefine Postdialysis Fatigue in Patients with Kidney Failure](https://journals.lww.com/jasn/pages/articleviewer.aspx?year=9900&issue=00000&article=00570&type=Abstract). Journal of the American Society of Nephrology ():10.1681/ASN.0000000650, February 25, 2025.DOI: 10.1681/ASN.0000000650
 
