@@ -1,6 +1,10 @@
-## Professional Experience
+# Professional Experience
 
-### Senior Data Scientist at University of Pittsburgh- Center for Population Health Management
+::: {.panel-tabset .nav-pills}
+
+### Industry Experience
+
+#### Senior Data Scientist at University of Pittsburgh- Center for Population Health Management
 
 **Full Time, July 2022 - Current**
 
@@ -11,7 +15,7 @@
 -   Utilized mixed-effect models to analyze the impact of various factors on pain, fatigue, and depression, providing valuable insights into effective intervention strategies.
 -   Designed and implemented a Tkinter application in Python to map addresses into the Area Deprivation Index (ADI), facilitating targeted resource allocation for underserved communities.
 
-### Data Scientist at University of Pittsburgh-Office of the Provost
+#### Data Scientist at University of Pittsburgh-Office of the Provost
 
 **Full Time, October 2017 - June 2022**
 
@@ -21,9 +25,9 @@
 -   Collaborated with school deans to make data-informed investment decisions, optimizing the school's US News and World Report ranking.
 -   Automated recurring reports on gender and ethnic group equity, as well as admission and financial aid reports for the office of the provost and deans.
 
-## Entrepreneurial Experience
+### Entrepreneurship
 
-### Co-Founder and CTO at Algebra Intelligence
+##### Co-Founder and CTO at Algebra Intelligence
 
 **Part Time, January 2020 - June 2022**
 
@@ -31,9 +35,9 @@
     -   Oversaw the entire development lifecycle from conceptualization to execution, ensuring seamless integration and optimal performance.
 -   Led the data science team in developing an energy generation forecasting tool using advanced statistical analysis and machine learning algorithms.
 
-## Teaching Experience
+### Academic Appointments
 
-### Adjunct Professor at TrineOnline University
+#### Adjunct Professor at TrineOnline University
 
 **Part Time, June 2024 - Current**
 
@@ -41,7 +45,7 @@
 -   Taught fundamental and advanced concepts of computer science using Python. Created hands-on projects to reinforce learning and encourage practical application of programming skills.
 -   Instructed students on the principles and practices of data science and big data analytics.
 
-### Data Science Instructor at Simplilearn
+#### Data Science Instructor at Simplilearn
 
 **Part Time, April 2023 - Current**
 
@@ -49,3 +53,5 @@
 -   Designed and delivered engaging modules on data exploration, visualization techniques, and best practices, fostering a deep understanding among students.
 -   Equipped learners with practical skills in applied Data Science and Machine Learning, utilizing both R and Python programming languages.
 -   Received consistently positive feedback for adeptly balancing theoretical knowledge with hands-on learning experiences, ensuring students grasp concepts effectively and confidently apply them in real-world scenarios.
+
+:::
