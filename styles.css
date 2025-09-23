@@ -1,1 +1,21 @@
 /* css styles */
+
+/* Lighter, uniform background with no scrolling variation */
+html, body {
+  background-color: #f2f7ff; /* soft academic blue */
+  background-image: none !important; /* remove gradients */
+}
+
+/* Remove translucent container tint that caused shifting hues over content */
+.container {
+  background: transparent; /* keep layout clear */
+}
+
+/* Ensure content blocks stay readable on the light bg */
+.card,
+.section,
+.nav,
+.footer {
+  background: #ffffff; /* fully opaque to avoid blending artifacts */
+  border-color: #e5eaf2; /* gentle hairline */
+}
