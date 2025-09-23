@@ -8,11 +8,16 @@
 
 **Full Time, July 2022 - Current**
 
--   Extensive experience utilizing Electronic Health Records (EHR) for analysis, demonstrating a deep familiarity with preparing and leveraging EHR data for both statistical and predictive purposes
--   Utilized causal forest algorithms to evaluate heterogeneity in treatment effects, allowing for a nuanced understanding of how different patient subgroups respond to various interventions
+-   Gained extensive experience utilizing Electronic Health Records (EHR) for analysis, demonstrating a deep familiarity with preparing and leveraging EHR data for both statistical and predictive purposes.
+
+-   Utilized causal forest algorithms to evaluate heterogeneity in treatment effects, allowing for a nuanced understanding of how different patient subgroups respond to various interventions.
+
 -   Spearheaded the development of precise predictive models to identify patients susceptible to adverse events using sophisticated machine learning methodologies.
+
 -   Tested the effectiveness of a multifaceted Electronic Health Records (EHR)-based Population Health Management (PHM) intervention to improve evidence-based Chronic Kidney Disease care in high-risk patients.
+
 -   Utilized mixed-effect models to analyze the impact of various factors on pain, fatigue, and depression, providing valuable insights into effective intervention strategies.
+
 -   Designed and implemented a Tkinter application in Python to map addresses into the Area Deprivation Index (ADI), facilitating targeted resource allocation for underserved communities.
 
 #### Data Scientist at University of Pittsburgh-Office of the Provost
@@ -20,9 +25,13 @@
 **Full Time, October 2017 - June 2022**
 
 -   Utilized data analytics tools to automate the generation of yearly/ad-hoc insights in static and dynamic formats, integrating data from multiple resources.
+
 -   Improved University of Pittsburgh's US News Ranking by 4 steps (between 2020 and 2021) using Machine Learning techniques including SVM, Random Forest, and Gradient Boosting.
+
 -   Developed highly accurate (96%) predictive models for students' success indicators (retention, dropout, and graduation), enabling proactive advising for students in need.
+
 -   Collaborated with school deans to make data-informed investment decisions, optimizing the school's US News and World Report ranking.
+
 -   Automated recurring reports on gender and ethnic group equity, as well as admission and financial aid reports for the office of the provost and deans.
 
 ### Entrepreneurship
@@ -31,9 +40,16 @@
 
 **Part Time, January 2020 - June 2022**
 
--   Led a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application for real-time monitoring within energy plants. Successfully secured \$1,060,000 in funding in the pre-seed stage.
-    -   Oversaw the entire development lifecycle from conceptualization to execution, ensuring seamless integration and optimal performance.
--   Led the data science team in developing an energy generation forecasting tool using advanced statistical analysis and machine learning algorithms.
+- Led a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application that
+revolutionizes real-time monitoring within energy plants. Successfully secured $1,060,000 in funding in
+the pre-seed stage.
+
+- Spearheaded the development lifecycle from conceptualization to execution, overseeing database
+architecture, backend infrastructure, and front-end design to ensure seamless integration and optimal
+performance.
+
+- Led the data science team in the conceptualization and development of an energy generation forecasting
+tool using advanced statistical analysis and machine learning algorithms.
 
 ### Academic Appointments
 
@@ -43,6 +59,7 @@
 
 -   Delivered course materials focused on statistical methods and analysis techniques pertinent to IT research. Guided students in applying statistical tools to real-world IT problems and projects.
 -   Taught fundamental and advanced concepts of computer science using Python. Created hands-on projects to reinforce learning and encourage practical application of programming skills.
+
 -   Instructed students on the principles and practices of data science and big data analytics.
 
 #### Data Science Instructor at Simplilearn
@@ -50,8 +67,11 @@
 **Part Time, April 2023 - Current**
 
 -   Instructed comprehensive courses on Data Science, covering a spectrum from foundational mathematical and statistical concepts to advanced topics.
+
 -   Designed and delivered engaging modules on data exploration, visualization techniques, and best practices, fostering a deep understanding among students.
+
 -   Equipped learners with practical skills in applied Data Science and Machine Learning, utilizing both R and Python programming languages.
+
 -   Received consistently positive feedback for adeptly balancing theoretical knowledge with hands-on learning experiences, ensuring students grasp concepts effectively and confidently apply them in real-world scenarios.
 
 :::
