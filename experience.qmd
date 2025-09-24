@@ -34,11 +34,67 @@
 
 -   Automated recurring reports on gender and ethnic group equity, as well as admission and financial aid reports for the office of the provost and deans.
 
+#### Data Scientist and Simulation Specialist at University of Akron
+
+**January 2013 - September 2017**
+
+- Conducted data collection process via surveys and sensors to gather and analyze data, enabling data- 
+ driven improvements to the parking and transportation processes at the University of Akron.
+ 
+- Developed valid Discrete Event Simulation models to mimic and optimize the stochastic process of the Parking and Transportation environments, identifying areas for increased efficiency and resource allocation.
+
+- Applied continuous improvement methodologies and Lean principles to analyze the parking and transportation process, resulting in enhanced operational effectiveness and customer satisfaction.
+
+- Utilized Advanced Machine Learning techniques to forecast future demands on the transportation system, aiding in long-term planning and optimal allocation of resources.
+
+#### Data Scientist at Federal Aviation Administration (FAA)
+
+**Part-time January 2017 - July 2017**
+- Collaborated with Google and the FAA to optimize the Federal Aviation Administration search engine for their technical training materials.
+
+- Conducted state-of-the-art research to extract information from various information carriers used by the FAA, including PDF documents, web pages, and scanned images.
+
+- Implemented text mining analyses and Natural Language Processing techniques on their database contents to uncover valuable knowledge and insights.
+
+- Applied advanced Statistical Techniques and A/B Testing on the database contents to gain a deeper understanding and optimize the search engine's performance.
+
+##### **Senior Site Engineer at Millennium Energy Industries**
+
+**August 2008 - July 2011**
+
+- Supervised a high-performing team in the field of Thermal Renewable Energy, specializing in Evacuated Tubes and Grammar Solar Technologies.
+
+- Led the successful implementation of renewable energy systems to generate hot water for various applications, including:
+  - Central hot water supply for domestic and large-scale projects, ensuring efficient and sustainable heating solutions.
+  - Space heating for both domestic and large-scale projects, optimizing energy usage and promoting eco-friendly practices.
+  - Swimming pool heating for domestic and large-scale projects, providing cost-effective and environmentally friendly solutions for maintaining comfortable pool temperatures.
+  - Grammar Solar (Hot Air Collectors) for domestic applications, harnessing solar energy for heating purposes in residential settings.
+  
+- Demonstrated expertise in renewable energy technologies, ensuring seamless integration of systems and maximizing energy yield.
+
+- Coordinated project planning, execution, and monitoring, ensuring adherence to timelines, budget, and quality standards.
+
+- Conducted feasibility studies and performance evaluations to assess the viability and effectiveness of renewable energy solutions for specific projects.
+
+- Fostered collaborative relationships with clients, suppliers, and stakeholders, driving successful project outcomes and client satisfaction.
+
+##### **Site Engineer at Nour Communication Company**
+
+**August 2007 - August 2008**
+
+- Led a team in performing heating and cooling load calculations for communication tower cabins.
+
+- Installed, commissioned, and maintained air conditioning units in tower cabins.
+
+- Oversaw the installation and commissioning of firefighting systems.
+
+- Managed the commissioning of electrical panels, including the Main Distribution Board and Automatic Transfer Switch.
+
 ### Entrepreneurship
 
-##### Co-Founder and CTO at Algebra Intelligence
+##### **Co-Founder and CTO at Algebra Intelligence**
 
-**Part Time, January 2020 - June 2022**
+**January 2020 - June 2022**
 
 - Led a pioneering team in creating and deploying Taqtak, a groundbreaking mobile/web application that
 revolutionizes real-time monitoring within energy plants. Successfully secured $1,060,000 in funding in
@@ -53,7 +109,7 @@ tool using advanced statistical analysis and machine learning algorithms.
 
 ### Academic Appointments
 
-#### Adjunct Professor at TrineOnline University
+#### **Adjunct Professor at TrineOnline University**
 
 **Part Time, June 2024 - Current**
 
@@ -62,7 +118,7 @@ tool using advanced statistical analysis and machine learning algorithms.
 
 -   Instructed students on the principles and practices of data science and big data analytics.
 
-#### Data Science Instructor at Simplilearn
+#### **Data Science Instructor at Simplilearn**
 
 **Part Time, April 2023 - Current**
 
