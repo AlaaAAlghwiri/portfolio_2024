@@ -14,12 +14,12 @@ website:
         href: experience.qmd
       - text: Projects
         href: projects.html
+      - text: Research Interest
+        href: Research Interest.qmd
       - text: Publications
         href: Publications.qmd
       - text: Blogs
         href: blogs.qmd
-      #- text: Courses
-        #href: courses.html
       - text: Resume
         href: resume.qmd
     right:

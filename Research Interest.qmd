@@ -1,0 +1,28 @@
+---
+title: "Research Interest"
+---
+
+My research interests lie at the intersection of data science, machine learning, and their applications in the Healthcare and Energy domains.
+
+::: {.panel-tabset .nav-pills}
+
+### Energy
+
+- Develop ML models to optimize energy consumption, predict equipment failures, and forecast demand and supply.
+
+- Apply deep reinforcement learning for scheduling, energy management, and adaptive HVAC systems.
+
+- Advance renewable energy integration using data-driven methods.
+
+- Leverage big data analytics to improve the efficiency and sustainability of energy systems.
+
+### Healthcare
+
+- Predictive Modeling for Chronic Conditions: Build and validate models to anticipate disease progression and adverse events.
+
+- Personalized Care: Develop patient-level risk stratification and treatment recommendation frameworks.
+
+- Transfer Learning: Adapt models across cohorts and institutions to improve accuracy and reduce data requirements.
+
+
+:::
