@@ -24,7 +24,7 @@
 
 -   Alghwiri, A. A., Almomani, F., **Alghwiri, A. A.**, & Whitney, S. L. (2021). [Predictors of sleep quality among university students: the use of advanced machine learning techniques](https://link.springer.com/article/10.1007/s11325-020-02150-w). Sleep and Breathing, 25, 1119-1126
 
-### Published abstracts and proceedings:
+### Published abstracts and proceedings
 
 -   M.R. Weltman, **A.A. Alghwiri**, Z. Han, L.U. Lavenburg, T.D. Nolin, J.G. Yabes,, Y. Chen, M. Jhamb. **Prediction of medication therapy problems in patients with moderate- to high-risk chronic kidney disease**: American Society of Nephrology (ASN) 2024
 
