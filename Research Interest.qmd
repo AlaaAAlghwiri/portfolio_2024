@@ -10,11 +10,11 @@ My research interests lie at the intersection of data science, machine learning,
 
 Advancements in Online Reinforcement Learning for Industrial Engineering Applications:
 
-- Predictive Maintenance: Leveraging online RL to anticipate equipment failures, reduce downtime, and extend asset life cycles through adaptive learning strategies.
+- **Predictive Maintenance**: Leveraging online RL to anticipate equipment failures, reduce downtime, and extend asset life cycles through adaptive learning strategies.
 
-- Dynamic Scheduling: Applying reinforcement learning models to optimize job-shop and flow-shop scheduling in real time, enhancing responsiveness to demand variability and resource constraints.
+- **Dynamic Scheduling**: Applying reinforcement learning models to optimize job-shop and flow-shop scheduling in real time, enhancing responsiveness to demand variability and resource constraints.
 
-- Process Optimization: Utilizing online RL to continuously improve manufacturing and service processes, enabling data-driven decision-making and efficiency gains under uncertainty.
+- **Process Optimization**: Utilizing online RL to continuously improve manufacturing and service processes, enabling data-driven decision-making and efficiency gains under uncertainty.
 
 ### Energy
 
