@@ -16,9 +16,9 @@ Advancements in Online Reinforcement Learning for Industrial Engineering Applica
 
 - **Process Optimization**: Utilizing online RL to continuously improve manufacturing and service processes, enabling data-driven decision-making and efficiency gains under uncertainty.
 
-### Energy
+### Energy generation and consumption
 
--   Develop ML models to optimize energy consumption, predict equipment failures, and forecast demand and supply.
+-   Develop ML models to optimize energy consumption, predict equipment failures, and forecast both generation and consumption.
 
 -   Apply deep reinforcement learning for energy management and adaptive HVAC systems.
 
@@ -26,7 +26,7 @@ Advancements in Online Reinforcement Learning for Industrial Engineering Applica
 
 -   Leverage big data analytics to improve the efficiency and sustainability of energy systems.
 
-### Healthcare
+### Healthcare systems
 
 -   Predictive Modeling for Chronic Conditions: Build and validate models to anticipate disease progression and adverse events.
 
